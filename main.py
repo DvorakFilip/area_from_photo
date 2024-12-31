@@ -2,16 +2,25 @@ from PIL import Image
 
 from functions import prettyprint
 
-# ask for path to image and searched color
-image_path = input("Enter image path: ")
+# ask for path to image, searched color and tolerance
+image_path, color, tolerance = "", "", ""
+
+while image_path == "":
+    image_path = input("Enter image path: ")
 if image_path == "quit":
     quit()
-color = input("Enter RGB value for color (format: '255 255 255'): ")
-if color != "":
-    color = tuple([int(i) for i in color.split(" ")])
+
+while color == "":
+    color = input("Enter RGB value for color (format: '255 255 255'): ")
+color = tuple([int(i) for i in color.split(" ")])
+
+while tolerance == "":
+    tolerance = input("Enter tolerance value for chosen color (0 - 255): ")
+tolerance = int(tolerance)
+
 
 #temporary
-image_path = "testinput/black04.png"
+image_path = "testinput/black02.png"
 color = (0, 0, 0)
 
 
@@ -44,7 +53,10 @@ def bfs(x, y):
 
         x, y = queue.pop(0)
 
-        if rgb_values[y][x] == color:
+        rgb_value = rgb_values[y][x]
+
+        #if rgb_values[y][x] == color:
+        if (color[0]-tolerance <= rgb_value[0] <= color[0]+tolerance) and (color[1]-tolerance <= rgb_value[1] <= color[1]+tolerance) and (color[2]-tolerance <= rgb_value[2] <= color[2]+tolerance):
             result.append((x, y))
 
 
