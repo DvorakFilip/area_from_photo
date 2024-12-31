@@ -41,6 +41,7 @@ for i in range(height):
 
 
 
+# breadth first search to find all pixels coresponding to one area
 def bfs(x, y):
     global rgb_values
     directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
@@ -73,7 +74,7 @@ def bfs(x, y):
 
 
 
-
+# iterates through the image to find areas of chosen color
 result = []
 visited = []
 for y, row in enumerate(rgb_values):
@@ -88,6 +89,7 @@ for y, row in enumerate(rgb_values):
 
 
 
+# output
 prettyprint(rgb_values)
 print()
 
