@@ -59,8 +59,12 @@ def bfs(x, y):
         rgb_value = rgb_values[y][x]
 
         #if rgb_values[y][x] == color:
+        #print(rgb_values, color, tolerance)
         if (color[0]-tolerance <= rgb_value[0] <= color[0]+tolerance) and (color[1]-tolerance <= rgb_value[1] <= color[1]+tolerance) and (color[2]-tolerance <= rgb_value[2] <= color[2]+tolerance):
             result.append((x, y))
+            print("yes")
+        else:
+            print("no")
 
 
 
@@ -82,7 +86,8 @@ visited = []
 for y, row in enumerate(rgb_values):
     for x, value in enumerate(row):
 
-        if (value == color) and ((x, y) not in visited):
+        #print(color, value, tolerance)
+        if (color[0]-tolerance <= value[0] <= color[0]+tolerance) and (color[1]-tolerance <= value[1] <= color[1]+tolerance) and (color[2]-tolerance <= value[2] <= color[2]+tolerance) and ((x, y) not in visited):
             new_pixels = bfs(x, y)
             visited += new_pixels
             #print(new_pixels)
