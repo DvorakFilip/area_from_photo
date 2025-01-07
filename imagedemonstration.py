@@ -9,7 +9,8 @@ def save_processed_image(img, color, tolerance):
         blackcolor = (100, 100, 100)
 
     for pixel in img.getdata():
-        if (color[0]-tolerance <= pixel[0] <= color[0]+tolerance) and (color[1]-tolerance <= pixel[1] <= color[1]+tolerance) and (color[2]-tolerance <= pixel <= color[2]+tolerance):
+        #print(color[2]-tolerance, pixel, color[2]+tolerance)
+        if (color[0]-tolerance <= pixel[0] <= color[0]+tolerance) and (color[1]-tolerance <= pixel[1] <= color[1]+tolerance) and (color[2]-tolerance <= pixel[2] <= color[2]+tolerance):
             final_data.append(pixel)
         else:
             final_data.append(blackcolor)

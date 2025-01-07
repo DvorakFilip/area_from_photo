@@ -114,5 +114,6 @@ print("Average diameter: ", (sum(rs)/len(rs)))
 print("Total surface area: ", (sum(surface_areas)))
 
 #bonus - visualize selection
-save_processed_image(img, color, tolerance).save(image_path.split(".")[0], "_processed.png")
+print((f"{image_path.split(".")[0]}_processed.png"))
+save_processed_image(img, color, tolerance).save((f"{image_path.split(".")[0]}_processed.png"))
 
