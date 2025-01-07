@@ -33,7 +33,7 @@ img = Image.open(image_path)
 img_rgb = img.convert("RGB")
 width, height = img_rgb.size
 
-all_rgb_values = list(img.getdata())
+all_rgb_values = list(img_rgb.getdata())
 
 
 # converting list of RGB values to 2d matrix
