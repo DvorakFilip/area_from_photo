@@ -1,4 +1,5 @@
 from PIL import Image
+import numpy as np
 
 from functions import prettyprint
 
@@ -88,15 +89,26 @@ for y, row in enumerate(rgb_values):
 
 
 
-
-# output
-prettyprint(rgb_values)
+#prettyprint(rgb_values)
 print()
 
 
 print("Number of areas: ", len(result))
+
+surface_areas = []
+rs = []
+
 for i, r in enumerate(result):
     print("Area number: ", i)
     print(len(r), " pixels:")
     print(r)
+
+    # since len(r) is number of pixels of color area, it coresponds to area of a circle
+    r = np.sqrt((len(r)/np.pi))
+    rs.append(r)
+    surface_areas.append(4*np.pi*(r**2))
+
+print("FINAL OUTPUT: ")
+print("Average diameter: ", (sum(rs)/len(rs)))
+print("Total surface area: ", (sum(surface_areas)))
 
