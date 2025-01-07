@@ -22,8 +22,8 @@ tolerance = int(tolerance)
 
 
 #temporary
-image_path = "testinput/black02.png"
-color = (0, 0, 0)
+#image_path = "testinput/black02.png"
+#color = (0, 0, 0)
 
 
 
