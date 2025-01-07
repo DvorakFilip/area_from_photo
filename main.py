@@ -1,5 +1,6 @@
 from PIL import Image
 import numpy as np
+from imagedemonstration import save_processed_image
 
 from functions import prettyprint
 
@@ -27,12 +28,12 @@ color = (0, 0, 0)
 
 
 # Convert the image to list of RGB values
-with Image.open(image_path) as img:
+img = Image.open(image_path)
 
-    img = img.convert("RGB")
-    width, height = img.size
+img_rgb = img.convert("RGB")
+width, height = img_rgb.size
 
-    all_rgb_values = list(img.getdata())
+all_rgb_values = list(img.getdata())
 
 
 # converting list of RGB values to 2d matrix
@@ -111,4 +112,7 @@ for i, r in enumerate(result):
 print("FINAL OUTPUT: ")
 print("Average diameter: ", (sum(rs)/len(rs)))
 print("Total surface area: ", (sum(surface_areas)))
+
+#bonus - visualize selection
+save_processed_image(img, color, tolerance).save(image_path.split(".")[0], "_processed.png")
 
