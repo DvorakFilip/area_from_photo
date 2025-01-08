@@ -58,21 +58,20 @@ def bfs(x, y):
 
         rgb_value = rgb_values[y][x]
 
-        #if rgb_values[y][x] == color:
-        #print(rgb_values, color, tolerance)
         if (color[0]-tolerance <= rgb_value[0] <= color[0]+tolerance) and (color[1]-tolerance <= rgb_value[1] <= color[1]+tolerance) and (color[2]-tolerance <= rgb_value[2] <= color[2]+tolerance):
             result.append((x, y))
-            print("yes")
         else:
-            print("no")
+            pass
 
 
 
-            for direction in directions:
-                new_x, new_y = x+direction[0], y+direction[1]
-                if ((new_x, new_y) not in visited) and ((new_x >= 0) and (new_x < width)) and ((new_y >= 0) and (new_y < height)):
-                    queue.append((new_x, new_y))
-                    visited.append((new_x, new_y))
+        for direction in directions:
+            new_x, new_y = x+direction[0], y+direction[1]
+            if ((new_x, new_y) not in visited) and ((new_x >= 0) and (new_x < width)) and ((new_y >= 0) and (new_y < height)):
+                queue.append((new_x, new_y))
+                visited.append((new_x, new_y))
+    
+    print("")
 
     return result
 
@@ -86,11 +85,9 @@ visited = []
 for y, row in enumerate(rgb_values):
     for x, value in enumerate(row):
 
-        #print(color, value, tolerance)
         if (color[0]-tolerance <= value[0] <= color[0]+tolerance) and (color[1]-tolerance <= value[1] <= color[1]+tolerance) and (color[2]-tolerance <= value[2] <= color[2]+tolerance) and ((x, y) not in visited):
             new_pixels = bfs(x, y)
             visited += new_pixels
-            #print(new_pixels)
             result.append(new_pixels)
 
 
@@ -107,7 +104,7 @@ rs = []
 for i, r in enumerate(result):
     print("Area number: ", i)
     print(len(r), " pixels:")
-    print(r)
+    #print(r)
 
     # since len(r) is number of pixels of color area, it coresponds to area of a circle
     r = np.sqrt((len(r)/np.pi))
@@ -115,6 +112,9 @@ for i, r in enumerate(result):
     surface_areas.append(4*np.pi*(r**2))
 
 print("FINAL OUTPUT: ")
+if len(rs) == 0:
+    print("Did not find anything")
+    quit()
 print("Average diameter: ", (sum(rs)/len(rs)))
 print("Total surface area: ", (sum(surface_areas)))
 
