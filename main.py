@@ -5,7 +5,7 @@ from imagedemonstration import save_processed_image
 from functions import prettyprint
 
 # ask for path to image, searched color and tolerance
-image_path, color, tolerance = "", "", ""
+image_path, color, tolerance = "1", "1", "1"
 
 while image_path == "":
     image_path = input("Enter image path: ")
@@ -22,13 +22,16 @@ tolerance = int(tolerance)
 
 
 #temporary
-#image_path = "testinput/black02.png"
-#color = (0, 0, 0)
+image_path = "programinput/bread01.png"
+color = (0, 0, 255)
+tolerance = 135
 
 
 
 # Convert the image to list of RGB values
 img = Image.open(image_path)
+img_processed = Image.open(image_path)
+pixels_processed = img_processed.load()
 
 img_rgb = img.convert("RGB")
 width, height = img_rgb.size
@@ -48,30 +51,29 @@ def bfs(x, y):
     global rgb_values
     directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
-    visited = [(x, y)]
-    result = []
+    visited = set((x, y))
+    result = [(x, y)]
     queue = [(x, y)]
+
 
     while queue:
 
         x, y = queue.pop(0)
 
-        rgb_value = rgb_values[y][x]
 
-        if (color[0]-tolerance <= rgb_value[0] <= color[0]+tolerance) and (color[1]-tolerance <= rgb_value[1] <= color[1]+tolerance) and (color[2]-tolerance <= rgb_value[2] <= color[2]+tolerance):
-            result.append((x, y))
-        else:
-            pass
-
-
+        if len(result)%1000 == 0:
+            print(len(result))
 
         for direction in directions:
             new_x, new_y = x+direction[0], y+direction[1]
             if ((new_x, new_y) not in visited) and ((new_x >= 0) and (new_x < width)) and ((new_y >= 0) and (new_y < height)):
-                queue.append((new_x, new_y))
-                visited.append((new_x, new_y))
+                visited.add((new_x, new_y))
+                rgb_value = rgb_values[new_y][new_x]
+                if (abs(color[0]-rgb_value[0]) <= tolerance) and (abs(color[1]-rgb_value[1]) <= tolerance) and (abs(color[2]-rgb_value[2]) <= tolerance):
+                    queue.append((new_x, new_y))
+                    result.append((x, y))
     
-    print("")
+    #print("")
 
     return result
 
@@ -81,14 +83,21 @@ def bfs(x, y):
 
 # iterates through the image to find areas of chosen color
 result = []
-visited = []
+visited = set()
 for y, row in enumerate(rgb_values):
+
+    print(f"{(y/height)*100:.2f} %")
     for x, value in enumerate(row):
 
-        if (color[0]-tolerance <= value[0] <= color[0]+tolerance) and (color[1]-tolerance <= value[1] <= color[1]+tolerance) and (color[2]-tolerance <= value[2] <= color[2]+tolerance) and ((x, y) not in visited):
-            new_pixels = bfs(x, y)
-            visited += new_pixels
-            result.append(new_pixels)
+        if ((x, y) not in visited):
+            if (abs(color[0]-value[0]) <= tolerance) and (abs(color[1]-value[1]) <= tolerance) and (abs(color[2]-value[2]) <= tolerance):
+                new_pixels = bfs(x, y)
+                visited.update(new_pixels)
+                print(f"lenght of result: {len(new_pixels)}")
+                result.append(new_pixels)
+            else:
+                pixels_processed[x,y] = (0, 0, 0)
+
 
 
 
@@ -103,7 +112,7 @@ rs = []
 
 for i, r in enumerate(result):
     print("Area number: ", i)
-    print(len(r), " pixels:")
+    print(len(r), " pixels")
     #print(r)
 
     # since len(r) is number of pixels of color area, it coresponds to area of a circle
@@ -119,6 +128,8 @@ print("Average diameter: ", (sum(rs)/len(rs)))
 print("Total surface area: ", (sum(surface_areas)))
 
 #bonus - visualize selection
-print((f"{image_path.split(".")[0]}_processed.png"))
+output = f"{image_path.split(".")[0]}_processed2.png" 
+print((output))
+img_processed.save(output)
 save_processed_image(img, color, tolerance).save((f"{image_path.split(".")[0]}_processed.png"))
 
