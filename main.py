@@ -22,9 +22,9 @@ tolerance = int(tolerance)
 
 
 #temporary
-image_path = "programinput/bread01.png"
-color = (0, 0, 255)
-tolerance = 135
+image_path = "testinput/black02.png"
+color = (0, 0, 0)
+tolerance = 20
 
 
 
@@ -51,7 +51,8 @@ def bfs(x, y):
     global rgb_values
     directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
-    visited = set((x, y))
+    visited = set()
+    visited.add((x, y))
     result = [(x, y)]
     queue = [(x, y)]
 
@@ -71,7 +72,7 @@ def bfs(x, y):
                 rgb_value = rgb_values[new_y][new_x]
                 if (abs(color[0]-rgb_value[0]) <= tolerance) and (abs(color[1]-rgb_value[1]) <= tolerance) and (abs(color[2]-rgb_value[2]) <= tolerance):
                     queue.append((new_x, new_y))
-                    result.append((x, y))
+                    result.append((new_x, new_y))
     
     #print("")
 
@@ -94,9 +95,11 @@ for y, row in enumerate(rgb_values):
                 new_pixels = bfs(x, y)
                 visited.update(new_pixels)
                 print(f"lenght of result: {len(new_pixels)}")
+                print(new_pixels)
+                print()
                 result.append(new_pixels)
             else:
-                pixels_processed[x,y] = (0, 0, 0)
+                pixels_processed[x,y] = (100, 100, 100)
 
 
 
