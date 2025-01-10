@@ -20,9 +20,9 @@ tolerance = int(tolerance)
 
 
 #temporary
-image_path = "testinput/black03.png"
-color = (0, 0, 0)
-tolerance = 20
+#image_path = "image_path_to_override_user_choice.png"
+#color = (0, 0, 255)
+#tolerance = 135
 
 
 
