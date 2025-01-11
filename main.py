@@ -3,7 +3,7 @@ import numpy as np
 
 
 # ask for path to image, searched color and tolerance
-image_path, color, tolerance = "", "", ""
+image_path, color, tolerance = "1", "1", "1"
 
 while image_path == "":
     image_path = input("Enter image path: ")
@@ -20,12 +20,13 @@ tolerance = int(tolerance)
 
 
 #temporary
-#image_path = "program_input/bread04.png"
-#color = (0, 80, 150)
-#tolerance = 110
+image_path = "program_input/bread04.png"
+color = (0, 80, 150)
+tolerance = 110
 
 
 print(image_path)
+print(color, tolerance)
 
 # Convert the image to list of RGB values
 img = Image.open(image_path)
@@ -83,7 +84,9 @@ result = []
 visited = set()
 for y, row in enumerate(rgb_values):
 
-    print(f"{(y/height)*100:.2f} %")
+    percentage_output = float(f"{(y/height)*100:.2f}")
+    if percentage_output % 1 == 0:
+        print(f"{percentage_output} %")
 
     for x, value in enumerate(row):
 
