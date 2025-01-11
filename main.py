@@ -20,11 +20,12 @@ tolerance = int(tolerance)
 
 
 #temporary
-#image_path = "image_path_to_override_user_choice.png"
-#color = (0, 0, 255)
-#tolerance = 135
+#image_path = "program_input/bread04.png"
+#color = (0, 80, 150)
+#tolerance = 110
 
 
+print(image_path)
 
 # Convert the image to list of RGB values
 img = Image.open(image_path)
@@ -94,7 +95,7 @@ for y, row in enumerate(rgb_values):
                 result.append(new_pixels)
 
             else:
-                pixels_processed[x,y] = (100, 100, 100)
+                pixels_processed[x,y] = (0, 0, 0, 0)
 
 
 
@@ -124,7 +125,7 @@ print("Average diameter: ", (sum(rs)/len(rs)))
 print("Total surface area: ", (sum(surface_areas)))
 
 #Creates image mask for chosen color
-output = f"{image_path.split(".")[0]}_processed2.png" 
+output = f"{image_path.split(".")[0]}_processed.png" 
 print((output))
 img.save(output)
 

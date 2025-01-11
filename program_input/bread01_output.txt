@@ -1,0 +1,6680 @@
+program_input/bread01.png
+0.00 %
+0.07 %
+0.14 %
+0.21 %
+0.27 %
+0.34 %
+0.41 %
+0.48 %
+0.55 %
+0.62 %
+0.69 %
+0.76 %
+0.82 %
+0.89 %
+0.96 %
+1.03 %
+1.10 %
+1.17 %
+1.24 %
+1.30 %
+1.37 %
+1.44 %
+1.51 %
+1.58 %
+1.65 %
+1.72 %
+1.79 %
+1.85 %
+1.92 %
+1.99 %
+2.06 %
+2.13 %
+2.20 %
+2.27 %
+2.34 %
+2.40 %
+2.47 %
+2.54 %
+2.61 %
+2.68 %
+2.75 %
+2.82 %
+2.88 %
+2.95 %
+3.02 %
+3.09 %
+3.16 %
+3.23 %
+3.30 %
+3.37 %
+3.43 %
+3.50 %
+3.57 %
+3.64 %
+3.71 %
+3.78 %
+3.85 %
+3.91 %
+3.98 %
+4.05 %
+4.12 %
+4.19 %
+4.26 %
+4.33 %
+4.40 %
+4.46 %
+4.53 %
+4.60 %
+4.67 %
+4.74 %
+4.81 %
+4.88 %
+4.95 %
+5.01 %
+5.08 %
+5.15 %
+5.22 %
+5.29 %
+5.36 %
+5.43 %
+5.49 %
+5.56 %
+5.63 %
+5.70 %
+5.77 %
+5.84 %
+5.91 %
+5.98 %
+6.04 %
+6.11 %
+6.18 %
+6.25 %
+6.32 %
+6.39 %
+6.46 %
+6.52 %
+6.59 %
+6.66 %
+6.73 %
+6.80 %
+6.87 %
+6.94 %
+7.01 %
+7.07 %
+7.14 %
+7.21 %
+7.28 %
+7.35 %
+7.42 %
+7.49 %
+7.55 %
+7.62 %
+7.69 %
+7.76 %
+7.83 %
+7.90 %
+7.97 %
+8.04 %
+8.10 %
+8.17 %
+8.24 %
+8.31 %
+8.38 %
+8.45 %
+8.52 %
+8.59 %
+8.65 %
+8.72 %
+8.79 %
+8.86 %
+8.93 %
+9.00 %
+9.07 %
+9.13 %
+9.20 %
+9.27 %
+9.34 %
+9.41 %
+9.48 %
+9.55 %
+9.62 %
+9.68 %
+9.75 %
+9.82 %
+9.89 %
+9.96 %
+10.03 %
+10.10 %
+10.16 %
+10.23 %
+10.30 %
+10.37 %
+10.44 %
+10.51 %
+10.58 %
+10.65 %
+10.71 %
+10.78 %
+10.85 %
+10.92 %
+10.99 %
+11.06 %
+11.13 %
+11.20 %
+11.26 %
+11.33 %
+11.40 %
+11.47 %
+11.54 %
+11.61 %
+11.68 %
+11.74 %
+11.81 %
+11.88 %
+11.95 %
+12.02 %
+12.09 %
+12.16 %
+12.23 %
+12.29 %
+12.36 %
+12.43 %
+12.50 %
+12.57 %
+12.64 %
+12.71 %
+12.77 %
+12.84 %
+12.91 %
+12.98 %
+13.05 %
+13.12 %
+13.19 %
+13.26 %
+13.32 %
+13.39 %
+13.46 %
+13.53 %
+13.60 %
+13.67 %
+13.74 %
+13.80 %
+13.87 %
+13.94 %
+14.01 %
+14.08 %
+14.15 %
+14.22 %
+14.29 %
+14.35 %
+14.42 %
+14.49 %
+14.56 %
+14.63 %
+14.70 %
+14.77 %
+14.84 %
+14.90 %
+14.97 %
+15.04 %
+15.11 %
+15.18 %
+15.25 %
+15.32 %
+15.38 %
+15.45 %
+15.52 %
+15.59 %
+15.66 %
+15.73 %
+15.80 %
+15.87 %
+15.93 %
+16.00 %
+16.07 %
+16.14 %
+16.21 %
+16.28 %
+16.35 %
+16.41 %
+16.48 %
+16.55 %
+16.62 %
+16.69 %
+16.76 %
+16.83 %
+16.90 %
+16.96 %
+17.03 %
+17.10 %
+17.17 %
+17.24 %
+17.31 %
+17.38 %
+17.45 %
+17.51 %
+17.58 %
+17.65 %
+17.72 %
+17.79 %
+17.86 %
+17.93 %
+17.99 %
+18.06 %
+18.13 %
+18.20 %
+18.27 %
+18.34 %
+18.41 %
+18.48 %
+18.54 %
+18.61 %
+18.68 %
+18.75 %
+18.82 %
+18.89 %
+18.96 %
+19.02 %
+19.09 %
+19.16 %
+19.23 %
+19.30 %
+19.37 %
+19.44 %
+19.51 %
+19.57 %
+19.64 %
+19.71 %
+19.78 %
+19.85 %
+19.92 %
+19.99 %
+20.05 %
+20.12 %
+20.19 %
+20.26 %
+20.33 %
+20.40 %
+20.47 %
+20.54 %
+20.60 %
+20.67 %
+20.74 %
+20.81 %
+20.88 %
+20.95 %
+21.02 %
+21.09 %
+21.15 %
+21.22 %
+21.29 %
+21.36 %
+21.43 %
+21.50 %
+21.57 %
+21.63 %
+21.70 %
+21.77 %
+21.84 %
+21.91 %
+21.98 %
+22.05 %
+22.12 %
+22.18 %
+22.25 %
+22.32 %
+22.39 %
+22.46 %
+22.53 %
+22.60 %
+22.66 %
+22.73 %
+22.80 %
+22.87 %
+22.94 %
+23.01 %
+23.08 %
+23.15 %
+23.21 %
+23.28 %
+23.35 %
+23.42 %
+23.49 %
+23.56 %
+23.63 %
+23.70 %
+23.76 %
+23.83 %
+23.90 %
+23.97 %
+24.04 %
+24.11 %
+24.18 %
+24.24 %
+24.31 %
+24.38 %
+24.45 %
+24.52 %
+24.59 %
+24.66 %
+24.73 %
+24.79 %
+24.86 %
+24.93 %
+25.00 %
+25.07 %
+25.14 %
+25.21 %
+25.27 %
+25.34 %
+25.41 %
+25.48 %
+25.55 %
+25.62 %
+25.69 %
+25.76 %
+25.82 %
+25.89 %
+25.96 %
+26.03 %
+26.10 %
+26.17 %
+26.24 %
+26.30 %
+26.37 %
+26.44 %
+26.51 %
+26.58 %
+26.65 %
+26.72 %
+26.79 %
+26.85 %
+26.92 %
+26.99 %
+27.06 %
+27.13 %
+27.20 %
+27.27 %
+27.34 %
+27.40 %
+27.47 %
+27.54 %
+27.61 %
+27.68 %
+27.75 %
+27.82 %
+27.88 %
+27.95 %
+28.02 %
+28.09 %
+28.16 %
+28.23 %
+28.30 %
+28.37 %
+28.43 %
+28.50 %
+28.57 %
+28.64 %
+28.71 %
+28.78 %
+28.85 %
+28.91 %
+28.98 %
+29.05 %
+29.12 %
+29.19 %
+29.26 %
+29.33 %
+29.40 %
+29.46 %
+29.53 %
+29.60 %
+29.67 %
+29.74 %
+29.81 %
+29.88 %
+29.95 %
+30.01 %
+30.08 %
+30.15 %
+30.22 %
+30.29 %
+30.36 %
+30.43 %
+30.49 %
+30.56 %
+30.63 %
+30.70 %
+30.77 %
+30.84 %
+30.91 %
+30.98 %
+31.04 %
+31.11 %
+31.18 %
+31.25 %
+31.32 %
+31.39 %
+31.46 %
+31.52 %
+31.59 %
+31.66 %
+31.73 %
+31.80 %
+31.87 %
+31.94 %
+32.01 %
+32.07 %
+32.14 %
+32.21 %
+32.28 %
+32.35 %
+32.42 %
+32.49 %
+32.55 %
+32.62 %
+32.69 %
+32.76 %
+32.83 %
+32.90 %
+32.97 %
+33.04 %
+33.10 %
+33.17 %
+33.24 %
+33.31 %
+33.38 %
+33.45 %
+33.52 %
+33.59 %
+33.65 %
+33.72 %
+33.79 %
+33.86 %
+33.93 %
+34.00 %
+34.07 %
+34.13 %
+34.20 %
+34.27 %
+34.34 %
+34.41 %
+34.48 %
+34.55 %
+34.62 %
+34.68 %
+34.75 %
+34.82 %
+34.89 %
+34.96 %
+35.03 %
+35.10 %
+35.16 %
+35.23 %
+35.30 %
+35.37 %
+35.44 %
+35.51 %
+35.58 %
+35.65 %
+35.71 %
+35.78 %
+35.85 %
+35.92 %
+35.99 %
+36.06 %
+36.13 %
+36.20 %
+36.26 %
+36.33 %
+36.40 %
+36.47 %
+36.54 %
+36.61 %
+36.68 %
+36.74 %
+36.81 %
+36.88 %
+36.95 %
+37.02 %
+37.09 %
+37.16 %
+37.23 %
+37.29 %
+37.36 %
+37.43 %
+37.50 %
+37.57 %
+37.64 %
+37.71 %
+37.77 %
+37.84 %
+37.91 %
+37.98 %
+38.05 %
+38.12 %
+38.19 %
+38.26 %
+38.32 %
+38.39 %
+38.46 %
+38.53 %
+38.60 %
+38.67 %
+38.74 %
+38.80 %
+38.87 %
+38.94 %
+39.01 %
+39.08 %
+39.15 %
+39.22 %
+39.29 %
+39.35 %
+39.42 %
+39.49 %
+39.56 %
+39.63 %
+39.70 %
+39.77 %
+39.84 %
+39.90 %
+39.97 %
+40.04 %
+40.11 %
+40.18 %
+40.25 %
+40.32 %
+40.38 %
+40.45 %
+40.52 %
+40.59 %
+40.66 %
+40.73 %
+40.80 %
+40.87 %
+40.93 %
+41.00 %
+41.07 %
+41.14 %
+41.21 %
+41.28 %
+41.35 %
+41.41 %
+41.48 %
+41.55 %
+41.62 %
+41.69 %
+41.76 %
+41.83 %
+41.90 %
+41.96 %
+42.03 %
+42.10 %
+42.17 %
+42.24 %
+42.31 %
+42.38 %
+42.45 %
+42.51 %
+42.58 %
+42.65 %
+42.72 %
+42.79 %
+42.86 %
+42.93 %
+42.99 %
+43.06 %
+43.13 %
+43.20 %
+43.27 %
+43.34 %
+43.41 %
+43.48 %
+43.54 %
+43.61 %
+43.68 %
+43.75 %
+43.82 %
+43.89 %
+43.96 %
+44.02 %
+44.09 %
+44.16 %
+44.23 %
+44.30 %
+44.37 %
+44.44 %
+44.51 %
+44.57 %
+44.64 %
+44.71 %
+44.78 %
+44.85 %
+44.92 %
+44.99 %
+45.05 %
+45.12 %
+45.19 %
+45.26 %
+45.33 %
+45.40 %
+45.47 %
+45.54 %
+45.60 %
+45.67 %
+45.74 %
+45.81 %
+45.88 %
+45.95 %
+46.02 %
+46.09 %
+46.15 %
+46.22 %
+46.29 %
+46.36 %
+46.43 %
+46.50 %
+46.57 %
+46.63 %
+46.70 %
+46.77 %
+46.84 %
+46.91 %
+46.98 %
+47.05 %
+47.12 %
+47.18 %
+47.25 %
+47.32 %
+47.39 %
+47.46 %
+47.53 %
+47.60 %
+47.66 %
+47.73 %
+47.80 %
+47.87 %
+47.94 %
+48.01 %
+48.08 %
+48.15 %
+48.21 %
+48.28 %
+48.35 %
+48.42 %
+48.49 %
+48.56 %
+48.63 %
+48.70 %
+48.76 %
+48.83 %
+48.90 %
+48.97 %
+49.04 %
+49.11 %
+49.18 %
+49.24 %
+49.31 %
+49.38 %
+49.45 %
+49.52 %
+49.59 %
+49.66 %
+49.73 %
+49.79 %
+49.86 %
+49.93 %
+50.00 %
+50.07 %
+50.14 %
+50.21 %
+50.27 %
+50.34 %
+50.41 %
+50.48 %
+50.55 %
+50.62 %
+50.69 %
+50.76 %
+50.82 %
+50.89 %
+50.96 %
+51.03 %
+51.10 %
+51.17 %
+51.24 %
+51.30 %
+51.37 %
+51.44 %
+51.51 %
+51.58 %
+51.65 %
+51.72 %
+51.79 %
+51.85 %
+51.92 %
+51.99 %
+52.06 %
+52.13 %
+52.20 %
+52.27 %
+52.34 %
+52.40 %
+52.47 %
+52.54 %
+52.61 %
+52.68 %
+52.75 %
+52.82 %
+52.88 %
+52.95 %
+53.02 %
+53.09 %
+53.16 %
+53.23 %
+53.30 %
+53.37 %
+53.43 %
+53.50 %
+53.57 %
+53.64 %
+53.71 %
+53.78 %
+53.85 %
+53.91 %
+53.98 %
+54.05 %
+54.12 %
+54.19 %
+54.26 %
+54.33 %
+54.40 %
+54.46 %
+54.53 %
+54.60 %
+54.67 %
+54.74 %
+54.81 %
+54.88 %
+54.95 %
+55.01 %
+55.08 %
+55.15 %
+55.22 %
+55.29 %
+55.36 %
+55.43 %
+55.49 %
+55.56 %
+55.63 %
+55.70 %
+55.77 %
+55.84 %
+55.91 %
+55.98 %
+56.04 %
+56.11 %
+56.18 %
+56.25 %
+56.32 %
+56.39 %
+56.46 %
+56.52 %
+56.59 %
+56.66 %
+56.73 %
+56.80 %
+56.87 %
+56.94 %
+57.01 %
+57.07 %
+57.14 %
+57.21 %
+57.28 %
+57.35 %
+57.42 %
+57.49 %
+57.55 %
+57.62 %
+57.69 %
+57.76 %
+57.83 %
+57.90 %
+57.97 %
+58.04 %
+58.10 %
+58.17 %
+58.24 %
+58.31 %
+58.38 %
+58.45 %
+58.52 %
+58.59 %
+58.65 %
+58.72 %
+58.79 %
+58.86 %
+58.93 %
+59.00 %
+59.07 %
+59.13 %
+59.20 %
+59.27 %
+59.34 %
+59.41 %
+59.48 %
+59.55 %
+59.62 %
+59.68 %
+59.75 %
+59.82 %
+59.89 %
+59.96 %
+60.03 %
+60.10 %
+60.16 %
+60.23 %
+60.30 %
+60.37 %
+60.44 %
+60.51 %
+60.58 %
+60.65 %
+60.71 %
+60.78 %
+60.85 %
+60.92 %
+60.99 %
+61.06 %
+61.13 %
+61.20 %
+61.26 %
+61.33 %
+61.40 %
+61.47 %
+61.54 %
+61.61 %
+61.68 %
+61.74 %
+61.81 %
+61.88 %
+61.95 %
+62.02 %
+62.09 %
+62.16 %
+62.23 %
+62.29 %
+62.36 %
+62.43 %
+62.50 %
+62.57 %
+62.64 %
+62.71 %
+62.77 %
+62.84 %
+62.91 %
+62.98 %
+63.05 %
+63.12 %
+63.19 %
+63.26 %
+63.32 %
+63.39 %
+63.46 %
+63.53 %
+63.60 %
+63.67 %
+63.74 %
+63.80 %
+63.87 %
+63.94 %
+64.01 %
+64.08 %
+64.15 %
+64.22 %
+64.29 %
+64.35 %
+64.42 %
+64.49 %
+64.56 %
+64.63 %
+64.70 %
+64.77 %
+64.84 %
+64.90 %
+64.97 %
+65.04 %
+65.11 %
+65.18 %
+65.25 %
+65.32 %
+65.38 %
+65.45 %
+65.52 %
+65.59 %
+65.66 %
+65.73 %
+65.80 %
+65.87 %
+65.93 %
+66.00 %
+66.07 %
+66.14 %
+66.21 %
+66.28 %
+66.35 %
+66.41 %
+66.48 %
+66.55 %
+66.62 %
+66.69 %
+66.76 %
+66.83 %
+66.90 %
+66.96 %
+67.03 %
+67.10 %
+67.17 %
+67.24 %
+67.31 %
+67.38 %
+67.45 %
+67.51 %
+67.58 %
+67.65 %
+67.72 %
+67.79 %
+67.86 %
+67.93 %
+67.99 %
+68.06 %
+68.13 %
+68.20 %
+68.27 %
+68.34 %
+68.41 %
+68.48 %
+68.54 %
+68.61 %
+68.68 %
+68.75 %
+68.82 %
+68.89 %
+68.96 %
+69.02 %
+69.09 %
+69.16 %
+69.23 %
+69.30 %
+69.37 %
+69.44 %
+69.51 %
+69.57 %
+69.64 %
+69.71 %
+69.78 %
+69.85 %
+69.92 %
+69.99 %
+70.05 %
+70.12 %
+70.19 %
+70.26 %
+70.33 %
+70.40 %
+70.47 %
+70.54 %
+70.60 %
+70.67 %
+70.74 %
+70.81 %
+70.88 %
+70.95 %
+71.02 %
+71.09 %
+71.15 %
+71.22 %
+71.29 %
+71.36 %
+71.43 %
+71.50 %
+71.57 %
+71.63 %
+71.70 %
+71.77 %
+71.84 %
+71.91 %
+71.98 %
+72.05 %
+72.12 %
+72.18 %
+72.25 %
+72.32 %
+72.39 %
+72.46 %
+72.53 %
+72.60 %
+72.66 %
+72.73 %
+72.80 %
+72.87 %
+72.94 %
+73.01 %
+73.08 %
+73.15 %
+73.21 %
+73.28 %
+73.35 %
+73.42 %
+73.49 %
+73.56 %
+73.63 %
+73.70 %
+73.76 %
+73.83 %
+73.90 %
+73.97 %
+74.04 %
+74.11 %
+74.18 %
+74.24 %
+74.31 %
+74.38 %
+74.45 %
+74.52 %
+74.59 %
+74.66 %
+74.73 %
+74.79 %
+74.86 %
+74.93 %
+75.00 %
+75.07 %
+75.14 %
+75.21 %
+75.27 %
+75.34 %
+75.41 %
+75.48 %
+75.55 %
+75.62 %
+75.69 %
+75.76 %
+75.82 %
+75.89 %
+75.96 %
+76.03 %
+76.10 %
+76.17 %
+76.24 %
+76.30 %
+76.37 %
+76.44 %
+76.51 %
+76.58 %
+76.65 %
+76.72 %
+76.79 %
+76.85 %
+76.92 %
+76.99 %
+77.06 %
+77.13 %
+77.20 %
+77.27 %
+77.34 %
+77.40 %
+77.47 %
+77.54 %
+77.61 %
+77.68 %
+77.75 %
+77.82 %
+77.88 %
+77.95 %
+78.02 %
+78.09 %
+78.16 %
+78.23 %
+78.30 %
+78.37 %
+78.43 %
+78.50 %
+78.57 %
+78.64 %
+78.71 %
+78.78 %
+78.85 %
+78.91 %
+78.98 %
+79.05 %
+79.12 %
+79.19 %
+79.26 %
+79.33 %
+79.40 %
+79.46 %
+79.53 %
+79.60 %
+79.67 %
+79.74 %
+79.81 %
+79.88 %
+79.95 %
+80.01 %
+80.08 %
+80.15 %
+80.22 %
+80.29 %
+80.36 %
+80.43 %
+80.49 %
+80.56 %
+80.63 %
+80.70 %
+80.77 %
+80.84 %
+80.91 %
+80.98 %
+81.04 %
+81.11 %
+81.18 %
+81.25 %
+81.32 %
+81.39 %
+81.46 %
+81.52 %
+81.59 %
+81.66 %
+81.73 %
+81.80 %
+81.87 %
+81.94 %
+82.01 %
+82.07 %
+82.14 %
+82.21 %
+82.28 %
+82.35 %
+82.42 %
+82.49 %
+82.55 %
+82.62 %
+82.69 %
+82.76 %
+82.83 %
+82.90 %
+82.97 %
+83.04 %
+83.10 %
+83.17 %
+83.24 %
+83.31 %
+83.38 %
+83.45 %
+83.52 %
+83.59 %
+83.65 %
+83.72 %
+83.79 %
+83.86 %
+83.93 %
+84.00 %
+84.07 %
+84.13 %
+84.20 %
+84.27 %
+84.34 %
+84.41 %
+84.48 %
+84.55 %
+84.62 %
+84.68 %
+84.75 %
+84.82 %
+84.89 %
+84.96 %
+85.03 %
+85.10 %
+85.16 %
+85.23 %
+85.30 %
+85.37 %
+85.44 %
+85.51 %
+85.58 %
+85.65 %
+85.71 %
+85.78 %
+85.85 %
+85.92 %
+85.99 %
+86.06 %
+86.13 %
+86.20 %
+86.26 %
+86.33 %
+86.40 %
+86.47 %
+86.54 %
+86.61 %
+86.68 %
+86.74 %
+86.81 %
+86.88 %
+86.95 %
+87.02 %
+87.09 %
+87.16 %
+87.23 %
+87.29 %
+87.36 %
+87.43 %
+87.50 %
+87.57 %
+87.64 %
+87.71 %
+87.77 %
+87.84 %
+87.91 %
+87.98 %
+88.05 %
+88.12 %
+88.19 %
+88.26 %
+88.32 %
+88.39 %
+88.46 %
+88.53 %
+88.60 %
+88.67 %
+88.74 %
+88.80 %
+88.87 %
+88.94 %
+89.01 %
+89.08 %
+89.15 %
+89.22 %
+89.29 %
+89.35 %
+89.42 %
+89.49 %
+89.56 %
+89.63 %
+89.70 %
+89.77 %
+89.84 %
+89.90 %
+89.97 %
+90.04 %
+90.11 %
+90.18 %
+90.25 %
+90.32 %
+90.38 %
+90.45 %
+90.52 %
+90.59 %
+90.66 %
+90.73 %
+90.80 %
+90.87 %
+90.93 %
+91.00 %
+91.07 %
+91.14 %
+91.21 %
+91.28 %
+91.35 %
+91.41 %
+91.48 %
+91.55 %
+91.62 %
+91.69 %
+91.76 %
+91.83 %
+91.90 %
+91.96 %
+92.03 %
+92.10 %
+92.17 %
+92.24 %
+92.31 %
+92.38 %
+92.45 %
+92.51 %
+92.58 %
+92.65 %
+92.72 %
+92.79 %
+92.86 %
+92.93 %
+92.99 %
+93.06 %
+93.13 %
+93.20 %
+93.27 %
+93.34 %
+93.41 %
+93.48 %
+93.54 %
+93.61 %
+93.68 %
+93.75 %
+93.82 %
+93.89 %
+93.96 %
+94.02 %
+94.09 %
+94.16 %
+94.23 %
+94.30 %
+94.37 %
+94.44 %
+94.51 %
+94.57 %
+94.64 %
+94.71 %
+94.78 %
+94.85 %
+94.92 %
+94.99 %
+95.05 %
+95.12 %
+95.19 %
+95.26 %
+95.33 %
+95.40 %
+95.47 %
+95.54 %
+95.60 %
+95.67 %
+95.74 %
+95.81 %
+95.88 %
+95.95 %
+96.02 %
+96.09 %
+96.15 %
+96.22 %
+96.29 %
+96.36 %
+96.43 %
+96.50 %
+96.57 %
+96.63 %
+96.70 %
+96.77 %
+96.84 %
+96.91 %
+96.98 %
+97.05 %
+97.12 %
+97.18 %
+97.25 %
+97.32 %
+97.39 %
+97.46 %
+97.53 %
+97.60 %
+97.66 %
+97.73 %
+97.80 %
+97.87 %
+97.94 %
+98.01 %
+98.08 %
+98.15 %
+98.21 %
+98.28 %
+98.35 %
+98.42 %
+98.49 %
+98.56 %
+98.63 %
+98.70 %
+98.76 %
+98.83 %
+98.90 %
+98.97 %
+99.04 %
+99.11 %
+99.18 %
+99.24 %
+99.31 %
+99.38 %
+99.45 %
+99.52 %
+99.59 %
+99.66 %
+99.73 %
+99.79 %
+99.86 %
+99.93 %
+Number of areas:  2609
+Area number:  0
+1  pixels
+Area number:  1
+1  pixels
+Area number:  2
+1  pixels
+Area number:  3
+1  pixels
+Area number:  4
+1  pixels
+Area number:  5
+4  pixels
+Area number:  6
+2  pixels
+Area number:  7
+1  pixels
+Area number:  8
+1  pixels
+Area number:  9
+1  pixels
+Area number:  10
+2  pixels
+Area number:  11
+1  pixels
+Area number:  12
+1  pixels
+Area number:  13
+1  pixels
+Area number:  14
+6  pixels
+Area number:  15
+1  pixels
+Area number:  16
+2  pixels
+Area number:  17
+1  pixels
+Area number:  18
+1  pixels
+Area number:  19
+1  pixels
+Area number:  20
+1  pixels
+Area number:  21
+1  pixels
+Area number:  22
+2  pixels
+Area number:  23
+1  pixels
+Area number:  24
+2  pixels
+Area number:  25
+2  pixels
+Area number:  26
+3  pixels
+Area number:  27
+10  pixels
+Area number:  28
+4  pixels
+Area number:  29
+5  pixels
+Area number:  30
+2  pixels
+Area number:  31
+1  pixels
+Area number:  32
+2  pixels
+Area number:  33
+1  pixels
+Area number:  34
+1  pixels
+Area number:  35
+1  pixels
+Area number:  36
+1  pixels
+Area number:  37
+3  pixels
+Area number:  38
+1  pixels
+Area number:  39
+2  pixels
+Area number:  40
+1  pixels
+Area number:  41
+3  pixels
+Area number:  42
+1  pixels
+Area number:  43
+3  pixels
+Area number:  44
+1  pixels
+Area number:  45
+1  pixels
+Area number:  46
+1  pixels
+Area number:  47
+3  pixels
+Area number:  48
+3  pixels
+Area number:  49
+2  pixels
+Area number:  50
+1  pixels
+Area number:  51
+1  pixels
+Area number:  52
+2  pixels
+Area number:  53
+1  pixels
+Area number:  54
+1  pixels
+Area number:  55
+1  pixels
+Area number:  56
+1  pixels
+Area number:  57
+1  pixels
+Area number:  58
+1  pixels
+Area number:  59
+1  pixels
+Area number:  60
+1  pixels
+Area number:  61
+1  pixels
+Area number:  62
+1  pixels
+Area number:  63
+13  pixels
+Area number:  64
+6  pixels
+Area number:  65
+4  pixels
+Area number:  66
+1  pixels
+Area number:  67
+1  pixels
+Area number:  68
+1  pixels
+Area number:  69
+2  pixels
+Area number:  70
+2  pixels
+Area number:  71
+1  pixels
+Area number:  72
+2  pixels
+Area number:  73
+4  pixels
+Area number:  74
+9  pixels
+Area number:  75
+6  pixels
+Area number:  76
+2  pixels
+Area number:  77
+1  pixels
+Area number:  78
+1  pixels
+Area number:  79
+1  pixels
+Area number:  80
+3  pixels
+Area number:  81
+1  pixels
+Area number:  82
+7  pixels
+Area number:  83
+1  pixels
+Area number:  84
+1  pixels
+Area number:  85
+4  pixels
+Area number:  86
+1  pixels
+Area number:  87
+1  pixels
+Area number:  88
+7  pixels
+Area number:  89
+2  pixels
+Area number:  90
+1  pixels
+Area number:  91
+8  pixels
+Area number:  92
+1  pixels
+Area number:  93
+1  pixels
+Area number:  94
+1  pixels
+Area number:  95
+1  pixels
+Area number:  96
+3  pixels
+Area number:  97
+2  pixels
+Area number:  98
+1  pixels
+Area number:  99
+1  pixels
+Area number:  100
+3  pixels
+Area number:  101
+1  pixels
+Area number:  102
+1  pixels
+Area number:  103
+1  pixels
+Area number:  104
+8  pixels
+Area number:  105
+1  pixels
+Area number:  106
+1  pixels
+Area number:  107
+2  pixels
+Area number:  108
+1  pixels
+Area number:  109
+2  pixels
+Area number:  110
+1  pixels
+Area number:  111
+2  pixels
+Area number:  112
+1  pixels
+Area number:  113
+3  pixels
+Area number:  114
+1  pixels
+Area number:  115
+1  pixels
+Area number:  116
+2  pixels
+Area number:  117
+1  pixels
+Area number:  118
+101  pixels
+Area number:  119
+16  pixels
+Area number:  120
+1  pixels
+Area number:  121
+1  pixels
+Area number:  122
+2  pixels
+Area number:  123
+6  pixels
+Area number:  124
+1  pixels
+Area number:  125
+1  pixels
+Area number:  126
+1  pixels
+Area number:  127
+1  pixels
+Area number:  128
+1  pixels
+Area number:  129
+1  pixels
+Area number:  130
+1  pixels
+Area number:  131
+1  pixels
+Area number:  132
+2  pixels
+Area number:  133
+1  pixels
+Area number:  134
+17  pixels
+Area number:  135
+1  pixels
+Area number:  136
+1  pixels
+Area number:  137
+1  pixels
+Area number:  138
+1  pixels
+Area number:  139
+1  pixels
+Area number:  140
+2  pixels
+Area number:  141
+1  pixels
+Area number:  142
+1  pixels
+Area number:  143
+20  pixels
+Area number:  144
+1  pixels
+Area number:  145
+3  pixels
+Area number:  146
+1  pixels
+Area number:  147
+1  pixels
+Area number:  148
+1  pixels
+Area number:  149
+5  pixels
+Area number:  150
+2  pixels
+Area number:  151
+10  pixels
+Area number:  152
+1  pixels
+Area number:  153
+37  pixels
+Area number:  154
+1  pixels
+Area number:  155
+1  pixels
+Area number:  156
+1  pixels
+Area number:  157
+3  pixels
+Area number:  158
+2  pixels
+Area number:  159
+2  pixels
+Area number:  160
+5  pixels
+Area number:  161
+1  pixels
+Area number:  162
+1  pixels
+Area number:  163
+7  pixels
+Area number:  164
+2  pixels
+Area number:  165
+1  pixels
+Area number:  166
+1  pixels
+Area number:  167
+6  pixels
+Area number:  168
+2  pixels
+Area number:  169
+2  pixels
+Area number:  170
+5  pixels
+Area number:  171
+10  pixels
+Area number:  172
+4  pixels
+Area number:  173
+1  pixels
+Area number:  174
+1  pixels
+Area number:  175
+1  pixels
+Area number:  176
+1  pixels
+Area number:  177
+28  pixels
+Area number:  178
+3  pixels
+Area number:  179
+1  pixels
+Area number:  180
+1  pixels
+Area number:  181
+4  pixels
+Area number:  182
+2  pixels
+Area number:  183
+1  pixels
+Area number:  184
+1  pixels
+Area number:  185
+1  pixels
+Area number:  186
+5  pixels
+Area number:  187
+1  pixels
+Area number:  188
+2  pixels
+Area number:  189
+1  pixels
+Area number:  190
+1  pixels
+Area number:  191
+1  pixels
+Area number:  192
+1  pixels
+Area number:  193
+4  pixels
+Area number:  194
+1  pixels
+Area number:  195
+19  pixels
+Area number:  196
+2  pixels
+Area number:  197
+38  pixels
+Area number:  198
+40  pixels
+Area number:  199
+1  pixels
+Area number:  200
+1  pixels
+Area number:  201
+1  pixels
+Area number:  202
+3  pixels
+Area number:  203
+2  pixels
+Area number:  204
+1  pixels
+Area number:  205
+2  pixels
+Area number:  206
+2  pixels
+Area number:  207
+1  pixels
+Area number:  208
+1  pixels
+Area number:  209
+1  pixels
+Area number:  210
+38  pixels
+Area number:  211
+3  pixels
+Area number:  212
+39  pixels
+Area number:  213
+1  pixels
+Area number:  214
+1  pixels
+Area number:  215
+1  pixels
+Area number:  216
+1  pixels
+Area number:  217
+1  pixels
+Area number:  218
+1  pixels
+Area number:  219
+1  pixels
+Area number:  220
+5  pixels
+Area number:  221
+1  pixels
+Area number:  222
+2  pixels
+Area number:  223
+1  pixels
+Area number:  224
+8  pixels
+Area number:  225
+177  pixels
+Area number:  226
+1  pixels
+Area number:  227
+2  pixels
+Area number:  228
+5  pixels
+Area number:  229
+2  pixels
+Area number:  230
+1  pixels
+Area number:  231
+1  pixels
+Area number:  232
+1  pixels
+Area number:  233
+1  pixels
+Area number:  234
+1  pixels
+Area number:  235
+1  pixels
+Area number:  236
+1  pixels
+Area number:  237
+1  pixels
+Area number:  238
+4  pixels
+Area number:  239
+14  pixels
+Area number:  240
+3  pixels
+Area number:  241
+1  pixels
+Area number:  242
+1  pixels
+Area number:  243
+1  pixels
+Area number:  244
+1  pixels
+Area number:  245
+1  pixels
+Area number:  246
+1  pixels
+Area number:  247
+2  pixels
+Area number:  248
+1  pixels
+Area number:  249
+1  pixels
+Area number:  250
+7  pixels
+Area number:  251
+4  pixels
+Area number:  252
+1  pixels
+Area number:  253
+3  pixels
+Area number:  254
+1  pixels
+Area number:  255
+7  pixels
+Area number:  256
+115  pixels
+Area number:  257
+2  pixels
+Area number:  258
+40  pixels
+Area number:  259
+1  pixels
+Area number:  260
+1  pixels
+Area number:  261
+17  pixels
+Area number:  262
+1  pixels
+Area number:  263
+1  pixels
+Area number:  264
+1  pixels
+Area number:  265
+12  pixels
+Area number:  266
+1  pixels
+Area number:  267
+7  pixels
+Area number:  268
+1  pixels
+Area number:  269
+2  pixels
+Area number:  270
+9  pixels
+Area number:  271
+3  pixels
+Area number:  272
+1  pixels
+Area number:  273
+4  pixels
+Area number:  274
+6  pixels
+Area number:  275
+1  pixels
+Area number:  276
+31  pixels
+Area number:  277
+1  pixels
+Area number:  278
+1  pixels
+Area number:  279
+1  pixels
+Area number:  280
+17  pixels
+Area number:  281
+3  pixels
+Area number:  282
+6  pixels
+Area number:  283
+10  pixels
+Area number:  284
+1  pixels
+Area number:  285
+1  pixels
+Area number:  286
+1  pixels
+Area number:  287
+1  pixels
+Area number:  288
+2  pixels
+Area number:  289
+1  pixels
+Area number:  290
+2  pixels
+Area number:  291
+3  pixels
+Area number:  292
+6  pixels
+Area number:  293
+1  pixels
+Area number:  294
+1  pixels
+Area number:  295
+1  pixels
+Area number:  296
+1  pixels
+Area number:  297
+4  pixels
+Area number:  298
+1  pixels
+Area number:  299
+1  pixels
+Area number:  300
+1  pixels
+Area number:  301
+3  pixels
+Area number:  302
+2  pixels
+Area number:  303
+5  pixels
+Area number:  304
+1  pixels
+Area number:  305
+1  pixels
+Area number:  306
+1  pixels
+Area number:  307
+5  pixels
+Area number:  308
+1  pixels
+Area number:  309
+1  pixels
+Area number:  310
+10  pixels
+Area number:  311
+2  pixels
+Area number:  312
+1  pixels
+Area number:  313
+3  pixels
+Area number:  314
+2  pixels
+Area number:  315
+1  pixels
+Area number:  316
+47  pixels
+Area number:  317
+1  pixels
+Area number:  318
+1  pixels
+Area number:  319
+6  pixels
+Area number:  320
+5  pixels
+Area number:  321
+1  pixels
+Area number:  322
+2  pixels
+Area number:  323
+11  pixels
+Area number:  324
+1  pixels
+Area number:  325
+1  pixels
+Area number:  326
+3  pixels
+Area number:  327
+17  pixels
+Area number:  328
+1  pixels
+Area number:  329
+170  pixels
+Area number:  330
+3  pixels
+Area number:  331
+10  pixels
+Area number:  332
+25  pixels
+Area number:  333
+1  pixels
+Area number:  334
+2  pixels
+Area number:  335
+2  pixels
+Area number:  336
+38  pixels
+Area number:  337
+2  pixels
+Area number:  338
+3  pixels
+Area number:  339
+7  pixels
+Area number:  340
+1  pixels
+Area number:  341
+5  pixels
+Area number:  342
+1  pixels
+Area number:  343
+10  pixels
+Area number:  344
+30  pixels
+Area number:  345
+1  pixels
+Area number:  346
+1  pixels
+Area number:  347
+3  pixels
+Area number:  348
+1  pixels
+Area number:  349
+3  pixels
+Area number:  350
+3  pixels
+Area number:  351
+13  pixels
+Area number:  352
+1  pixels
+Area number:  353
+1  pixels
+Area number:  354
+11  pixels
+Area number:  355
+1  pixels
+Area number:  356
+6  pixels
+Area number:  357
+2  pixels
+Area number:  358
+1  pixels
+Area number:  359
+1  pixels
+Area number:  360
+10  pixels
+Area number:  361
+4  pixels
+Area number:  362
+2  pixels
+Area number:  363
+1  pixels
+Area number:  364
+1  pixels
+Area number:  365
+1  pixels
+Area number:  366
+1  pixels
+Area number:  367
+1  pixels
+Area number:  368
+1  pixels
+Area number:  369
+2  pixels
+Area number:  370
+3  pixels
+Area number:  371
+37  pixels
+Area number:  372
+287  pixels
+Area number:  373
+1  pixels
+Area number:  374
+1  pixels
+Area number:  375
+1  pixels
+Area number:  376
+2  pixels
+Area number:  377
+3  pixels
+Area number:  378
+2  pixels
+Area number:  379
+2  pixels
+Area number:  380
+1  pixels
+Area number:  381
+2  pixels
+Area number:  382
+8  pixels
+Area number:  383
+1  pixels
+Area number:  384
+1  pixels
+Area number:  385
+5  pixels
+Area number:  386
+1  pixels
+Area number:  387
+1  pixels
+Area number:  388
+1  pixels
+Area number:  389
+2  pixels
+Area number:  390
+10  pixels
+Area number:  391
+1  pixels
+Area number:  392
+6  pixels
+Area number:  393
+99  pixels
+Area number:  394
+1  pixels
+Area number:  395
+2  pixels
+Area number:  396
+1  pixels
+Area number:  397
+1  pixels
+Area number:  398
+82  pixels
+Area number:  399
+1  pixels
+Area number:  400
+1  pixels
+Area number:  401
+1  pixels
+Area number:  402
+1  pixels
+Area number:  403
+3  pixels
+Area number:  404
+1  pixels
+Area number:  405
+2  pixels
+Area number:  406
+9  pixels
+Area number:  407
+13  pixels
+Area number:  408
+1  pixels
+Area number:  409
+1  pixels
+Area number:  410
+1  pixels
+Area number:  411
+3  pixels
+Area number:  412
+3  pixels
+Area number:  413
+1  pixels
+Area number:  414
+2  pixels
+Area number:  415
+1  pixels
+Area number:  416
+1  pixels
+Area number:  417
+1  pixels
+Area number:  418
+1  pixels
+Area number:  419
+3  pixels
+Area number:  420
+104  pixels
+Area number:  421
+7  pixels
+Area number:  422
+305  pixels
+Area number:  423
+1  pixels
+Area number:  424
+1  pixels
+Area number:  425
+2  pixels
+Area number:  426
+1  pixels
+Area number:  427
+1  pixels
+Area number:  428
+4  pixels
+Area number:  429
+12  pixels
+Area number:  430
+6  pixels
+Area number:  431
+21  pixels
+Area number:  432
+7  pixels
+Area number:  433
+27  pixels
+Area number:  434
+12  pixels
+Area number:  435
+1  pixels
+Area number:  436
+6  pixels
+Area number:  437
+54  pixels
+Area number:  438
+1  pixels
+Area number:  439
+5  pixels
+Area number:  440
+2  pixels
+Area number:  441
+2  pixels
+Area number:  442
+1  pixels
+Area number:  443
+1  pixels
+Area number:  444
+2  pixels
+Area number:  445
+80  pixels
+Area number:  446
+2  pixels
+Area number:  447
+15  pixels
+Area number:  448
+1  pixels
+Area number:  449
+2  pixels
+Area number:  450
+2  pixels
+Area number:  451
+5  pixels
+Area number:  452
+5  pixels
+Area number:  453
+44  pixels
+Area number:  454
+2  pixels
+Area number:  455
+3  pixels
+Area number:  456
+1  pixels
+Area number:  457
+1517  pixels
+Area number:  458
+9  pixels
+Area number:  459
+1  pixels
+Area number:  460
+14  pixels
+Area number:  461
+17  pixels
+Area number:  462
+5  pixels
+Area number:  463
+4  pixels
+Area number:  464
+1  pixels
+Area number:  465
+4  pixels
+Area number:  466
+334  pixels
+Area number:  467
+2  pixels
+Area number:  468
+1  pixels
+Area number:  469
+15  pixels
+Area number:  470
+97  pixels
+Area number:  471
+8  pixels
+Area number:  472
+2  pixels
+Area number:  473
+1  pixels
+Area number:  474
+1  pixels
+Area number:  475
+3  pixels
+Area number:  476
+1  pixels
+Area number:  477
+19  pixels
+Area number:  478
+553  pixels
+Area number:  479
+1  pixels
+Area number:  480
+26  pixels
+Area number:  481
+1  pixels
+Area number:  482
+1  pixels
+Area number:  483
+3  pixels
+Area number:  484
+1  pixels
+Area number:  485
+4  pixels
+Area number:  486
+2  pixels
+Area number:  487
+84  pixels
+Area number:  488
+1  pixels
+Area number:  489
+845  pixels
+Area number:  490
+1  pixels
+Area number:  491
+127  pixels
+Area number:  492
+9  pixels
+Area number:  493
+3  pixels
+Area number:  494
+8  pixels
+Area number:  495
+1  pixels
+Area number:  496
+1  pixels
+Area number:  497
+1  pixels
+Area number:  498
+38  pixels
+Area number:  499
+3331  pixels
+Area number:  500
+20  pixels
+Area number:  501
+1  pixels
+Area number:  502
+3  pixels
+Area number:  503
+1  pixels
+Area number:  504
+1  pixels
+Area number:  505
+1  pixels
+Area number:  506
+1  pixels
+Area number:  507
+2  pixels
+Area number:  508
+99  pixels
+Area number:  509
+154  pixels
+Area number:  510
+72  pixels
+Area number:  511
+22  pixels
+Area number:  512
+1  pixels
+Area number:  513
+59  pixels
+Area number:  514
+4  pixels
+Area number:  515
+1  pixels
+Area number:  516
+15  pixels
+Area number:  517
+1  pixels
+Area number:  518
+5  pixels
+Area number:  519
+3  pixels
+Area number:  520
+917  pixels
+Area number:  521
+39  pixels
+Area number:  522
+4  pixels
+Area number:  523
+1  pixels
+Area number:  524
+6  pixels
+Area number:  525
+8  pixels
+Area number:  526
+3  pixels
+Area number:  527
+1  pixels
+Area number:  528
+5  pixels
+Area number:  529
+7731  pixels
+Area number:  530
+8  pixels
+Area number:  531
+6  pixels
+Area number:  532
+1  pixels
+Area number:  533
+1  pixels
+Area number:  534
+4  pixels
+Area number:  535
+12  pixels
+Area number:  536
+6  pixels
+Area number:  537
+2  pixels
+Area number:  538
+2  pixels
+Area number:  539
+18  pixels
+Area number:  540
+4  pixels
+Area number:  541
+5  pixels
+Area number:  542
+1  pixels
+Area number:  543
+1  pixels
+Area number:  544
+2  pixels
+Area number:  545
+2  pixels
+Area number:  546
+2  pixels
+Area number:  547
+5  pixels
+Area number:  548
+1  pixels
+Area number:  549
+14  pixels
+Area number:  550
+23  pixels
+Area number:  551
+1  pixels
+Area number:  552
+18  pixels
+Area number:  553
+1  pixels
+Area number:  554
+1  pixels
+Area number:  555
+14  pixels
+Area number:  556
+60  pixels
+Area number:  557
+1  pixels
+Area number:  558
+11  pixels
+Area number:  559
+1  pixels
+Area number:  560
+11  pixels
+Area number:  561
+2  pixels
+Area number:  562
+1  pixels
+Area number:  563
+1  pixels
+Area number:  564
+95  pixels
+Area number:  565
+1  pixels
+Area number:  566
+162  pixels
+Area number:  567
+81  pixels
+Area number:  568
+3  pixels
+Area number:  569
+1  pixels
+Area number:  570
+1  pixels
+Area number:  571
+1  pixels
+Area number:  572
+6  pixels
+Area number:  573
+1  pixels
+Area number:  574
+6  pixels
+Area number:  575
+110  pixels
+Area number:  576
+6  pixels
+Area number:  577
+64  pixels
+Area number:  578
+3  pixels
+Area number:  579
+1  pixels
+Area number:  580
+2  pixels
+Area number:  581
+1  pixels
+Area number:  582
+1  pixels
+Area number:  583
+394  pixels
+Area number:  584
+1  pixels
+Area number:  585
+1  pixels
+Area number:  586
+2  pixels
+Area number:  587
+4  pixels
+Area number:  588
+1  pixels
+Area number:  589
+8  pixels
+Area number:  590
+8  pixels
+Area number:  591
+1  pixels
+Area number:  592
+2  pixels
+Area number:  593
+1  pixels
+Area number:  594
+1  pixels
+Area number:  595
+53  pixels
+Area number:  596
+1  pixels
+Area number:  597
+52  pixels
+Area number:  598
+64  pixels
+Area number:  599
+1  pixels
+Area number:  600
+1  pixels
+Area number:  601
+1  pixels
+Area number:  602
+1  pixels
+Area number:  603
+5990  pixels
+Area number:  604
+6  pixels
+Area number:  605
+1  pixels
+Area number:  606
+9  pixels
+Area number:  607
+1  pixels
+Area number:  608
+5  pixels
+Area number:  609
+42  pixels
+Area number:  610
+4  pixels
+Area number:  611
+1  pixels
+Area number:  612
+13  pixels
+Area number:  613
+10  pixels
+Area number:  614
+3  pixels
+Area number:  615
+1  pixels
+Area number:  616
+18  pixels
+Area number:  617
+5  pixels
+Area number:  618
+1  pixels
+Area number:  619
+1  pixels
+Area number:  620
+27  pixels
+Area number:  621
+144  pixels
+Area number:  622
+1  pixels
+Area number:  623
+1  pixels
+Area number:  624
+7  pixels
+Area number:  625
+1  pixels
+Area number:  626
+1  pixels
+Area number:  627
+4  pixels
+Area number:  628
+1  pixels
+Area number:  629
+2  pixels
+Area number:  630
+19  pixels
+Area number:  631
+62  pixels
+Area number:  632
+22  pixels
+Area number:  633
+7  pixels
+Area number:  634
+1  pixels
+Area number:  635
+6  pixels
+Area number:  636
+5  pixels
+Area number:  637
+1  pixels
+Area number:  638
+7  pixels
+Area number:  639
+50  pixels
+Area number:  640
+11  pixels
+Area number:  641
+9  pixels
+Area number:  642
+5  pixels
+Area number:  643
+1  pixels
+Area number:  644
+1  pixels
+Area number:  645
+30  pixels
+Area number:  646
+2  pixels
+Area number:  647
+1  pixels
+Area number:  648
+55  pixels
+Area number:  649
+1  pixels
+Area number:  650
+12  pixels
+Area number:  651
+1  pixels
+Area number:  652
+1  pixels
+Area number:  653
+2  pixels
+Area number:  654
+44  pixels
+Area number:  655
+9  pixels
+Area number:  656
+1  pixels
+Area number:  657
+1  pixels
+Area number:  658
+28  pixels
+Area number:  659
+1  pixels
+Area number:  660
+65  pixels
+Area number:  661
+10  pixels
+Area number:  662
+1  pixels
+Area number:  663
+11  pixels
+Area number:  664
+6  pixels
+Area number:  665
+1  pixels
+Area number:  666
+3  pixels
+Area number:  667
+1  pixels
+Area number:  668
+4  pixels
+Area number:  669
+5  pixels
+Area number:  670
+4  pixels
+Area number:  671
+7  pixels
+Area number:  672
+1  pixels
+Area number:  673
+4  pixels
+Area number:  674
+2877  pixels
+Area number:  675
+2  pixels
+Area number:  676
+1  pixels
+Area number:  677
+8  pixels
+Area number:  678
+1  pixels
+Area number:  679
+4  pixels
+Area number:  680
+9  pixels
+Area number:  681
+1  pixels
+Area number:  682
+3  pixels
+Area number:  683
+11  pixels
+Area number:  684
+46  pixels
+Area number:  685
+762  pixels
+Area number:  686
+161  pixels
+Area number:  687
+3  pixels
+Area number:  688
+1  pixels
+Area number:  689
+1  pixels
+Area number:  690
+1  pixels
+Area number:  691
+9  pixels
+Area number:  692
+47  pixels
+Area number:  693
+31  pixels
+Area number:  694
+5  pixels
+Area number:  695
+60  pixels
+Area number:  696
+2  pixels
+Area number:  697
+1  pixels
+Area number:  698
+2  pixels
+Area number:  699
+2  pixels
+Area number:  700
+1  pixels
+Area number:  701
+1  pixels
+Area number:  702
+761  pixels
+Area number:  703
+1  pixels
+Area number:  704
+2  pixels
+Area number:  705
+1  pixels
+Area number:  706
+82  pixels
+Area number:  707
+64  pixels
+Area number:  708
+1  pixels
+Area number:  709
+1  pixels
+Area number:  710
+1  pixels
+Area number:  711
+2  pixels
+Area number:  712
+1  pixels
+Area number:  713
+2  pixels
+Area number:  714
+1  pixels
+Area number:  715
+1  pixels
+Area number:  716
+1  pixels
+Area number:  717
+238  pixels
+Area number:  718
+12  pixels
+Area number:  719
+1  pixels
+Area number:  720
+2  pixels
+Area number:  721
+1  pixels
+Area number:  722
+1  pixels
+Area number:  723
+31  pixels
+Area number:  724
+3  pixels
+Area number:  725
+2  pixels
+Area number:  726
+2  pixels
+Area number:  727
+1  pixels
+Area number:  728
+1  pixels
+Area number:  729
+10  pixels
+Area number:  730
+2  pixels
+Area number:  731
+1  pixels
+Area number:  732
+10  pixels
+Area number:  733
+1  pixels
+Area number:  734
+1  pixels
+Area number:  735
+1  pixels
+Area number:  736
+99  pixels
+Area number:  737
+1  pixels
+Area number:  738
+1  pixels
+Area number:  739
+56  pixels
+Area number:  740
+1  pixels
+Area number:  741
+3  pixels
+Area number:  742
+1  pixels
+Area number:  743
+1  pixels
+Area number:  744
+1  pixels
+Area number:  745
+1  pixels
+Area number:  746
+1  pixels
+Area number:  747
+1  pixels
+Area number:  748
+1  pixels
+Area number:  749
+1  pixels
+Area number:  750
+1  pixels
+Area number:  751
+15  pixels
+Area number:  752
+1  pixels
+Area number:  753
+1  pixels
+Area number:  754
+1  pixels
+Area number:  755
+2  pixels
+Area number:  756
+1  pixels
+Area number:  757
+1  pixels
+Area number:  758
+1  pixels
+Area number:  759
+2  pixels
+Area number:  760
+1  pixels
+Area number:  761
+15  pixels
+Area number:  762
+1  pixels
+Area number:  763
+1  pixels
+Area number:  764
+1  pixels
+Area number:  765
+1  pixels
+Area number:  766
+1  pixels
+Area number:  767
+130  pixels
+Area number:  768
+2  pixels
+Area number:  769
+171  pixels
+Area number:  770
+1  pixels
+Area number:  771
+1  pixels
+Area number:  772
+5  pixels
+Area number:  773
+3  pixels
+Area number:  774
+8  pixels
+Area number:  775
+2  pixels
+Area number:  776
+1  pixels
+Area number:  777
+1  pixels
+Area number:  778
+2  pixels
+Area number:  779
+1  pixels
+Area number:  780
+6  pixels
+Area number:  781
+37  pixels
+Area number:  782
+3  pixels
+Area number:  783
+1  pixels
+Area number:  784
+1  pixels
+Area number:  785
+30  pixels
+Area number:  786
+1  pixels
+Area number:  787
+1  pixels
+Area number:  788
+1  pixels
+Area number:  789
+16  pixels
+Area number:  790
+1  pixels
+Area number:  791
+1  pixels
+Area number:  792
+5  pixels
+Area number:  793
+3  pixels
+Area number:  794
+62  pixels
+Area number:  795
+1  pixels
+Area number:  796
+8  pixels
+Area number:  797
+10  pixels
+Area number:  798
+80  pixels
+Area number:  799
+2  pixels
+Area number:  800
+1  pixels
+Area number:  801
+2  pixels
+Area number:  802
+1  pixels
+Area number:  803
+2  pixels
+Area number:  804
+4  pixels
+Area number:  805
+4  pixels
+Area number:  806
+1  pixels
+Area number:  807
+2  pixels
+Area number:  808
+1  pixels
+Area number:  809
+1  pixels
+Area number:  810
+9  pixels
+Area number:  811
+1  pixels
+Area number:  812
+1  pixels
+Area number:  813
+1  pixels
+Area number:  814
+3  pixels
+Area number:  815
+1  pixels
+Area number:  816
+14  pixels
+Area number:  817
+1  pixels
+Area number:  818
+2  pixels
+Area number:  819
+7  pixels
+Area number:  820
+3  pixels
+Area number:  821
+1  pixels
+Area number:  822
+1  pixels
+Area number:  823
+2  pixels
+Area number:  824
+10  pixels
+Area number:  825
+1  pixels
+Area number:  826
+12  pixels
+Area number:  827
+1  pixels
+Area number:  828
+1  pixels
+Area number:  829
+2  pixels
+Area number:  830
+1  pixels
+Area number:  831
+4  pixels
+Area number:  832
+2  pixels
+Area number:  833
+1  pixels
+Area number:  834
+1  pixels
+Area number:  835
+2  pixels
+Area number:  836
+1  pixels
+Area number:  837
+2  pixels
+Area number:  838
+1  pixels
+Area number:  839
+110  pixels
+Area number:  840
+1  pixels
+Area number:  841
+2  pixels
+Area number:  842
+5  pixels
+Area number:  843
+1  pixels
+Area number:  844
+1  pixels
+Area number:  845
+1  pixels
+Area number:  846
+1  pixels
+Area number:  847
+620  pixels
+Area number:  848
+1  pixels
+Area number:  849
+1  pixels
+Area number:  850
+1  pixels
+Area number:  851
+20  pixels
+Area number:  852
+2  pixels
+Area number:  853
+3  pixels
+Area number:  854
+4  pixels
+Area number:  855
+4  pixels
+Area number:  856
+3  pixels
+Area number:  857
+9  pixels
+Area number:  858
+9  pixels
+Area number:  859
+3  pixels
+Area number:  860
+1  pixels
+Area number:  861
+1  pixels
+Area number:  862
+1  pixels
+Area number:  863
+4  pixels
+Area number:  864
+6  pixels
+Area number:  865
+1  pixels
+Area number:  866
+1  pixels
+Area number:  867
+1  pixels
+Area number:  868
+1  pixels
+Area number:  869
+1  pixels
+Area number:  870
+25  pixels
+Area number:  871
+10  pixels
+Area number:  872
+2  pixels
+Area number:  873
+1  pixels
+Area number:  874
+7  pixels
+Area number:  875
+1  pixels
+Area number:  876
+7  pixels
+Area number:  877
+15  pixels
+Area number:  878
+1  pixels
+Area number:  879
+1  pixels
+Area number:  880
+2  pixels
+Area number:  881
+8  pixels
+Area number:  882
+2  pixels
+Area number:  883
+1  pixels
+Area number:  884
+50  pixels
+Area number:  885
+1  pixels
+Area number:  886
+1  pixels
+Area number:  887
+8  pixels
+Area number:  888
+12  pixels
+Area number:  889
+1  pixels
+Area number:  890
+1  pixels
+Area number:  891
+1  pixels
+Area number:  892
+2  pixels
+Area number:  893
+1  pixels
+Area number:  894
+2  pixels
+Area number:  895
+1  pixels
+Area number:  896
+1  pixels
+Area number:  897
+4  pixels
+Area number:  898
+49  pixels
+Area number:  899
+1  pixels
+Area number:  900
+6  pixels
+Area number:  901
+5  pixels
+Area number:  902
+1  pixels
+Area number:  903
+1  pixels
+Area number:  904
+8  pixels
+Area number:  905
+5  pixels
+Area number:  906
+1  pixels
+Area number:  907
+1  pixels
+Area number:  908
+62  pixels
+Area number:  909
+2  pixels
+Area number:  910
+1  pixels
+Area number:  911
+1  pixels
+Area number:  912
+1  pixels
+Area number:  913
+1  pixels
+Area number:  914
+7  pixels
+Area number:  915
+9  pixels
+Area number:  916
+1  pixels
+Area number:  917
+1  pixels
+Area number:  918
+1  pixels
+Area number:  919
+1  pixels
+Area number:  920
+4  pixels
+Area number:  921
+14  pixels
+Area number:  922
+1  pixels
+Area number:  923
+1  pixels
+Area number:  924
+1  pixels
+Area number:  925
+1  pixels
+Area number:  926
+2  pixels
+Area number:  927
+1  pixels
+Area number:  928
+1  pixels
+Area number:  929
+1  pixels
+Area number:  930
+1  pixels
+Area number:  931
+1  pixels
+Area number:  932
+1  pixels
+Area number:  933
+2  pixels
+Area number:  934
+1  pixels
+Area number:  935
+154  pixels
+Area number:  936
+1  pixels
+Area number:  937
+1  pixels
+Area number:  938
+1  pixels
+Area number:  939
+1  pixels
+Area number:  940
+3  pixels
+Area number:  941
+9  pixels
+Area number:  942
+1  pixels
+Area number:  943
+1  pixels
+Area number:  944
+4  pixels
+Area number:  945
+1  pixels
+Area number:  946
+1  pixels
+Area number:  947
+1  pixels
+Area number:  948
+19  pixels
+Area number:  949
+1  pixels
+Area number:  950
+15  pixels
+Area number:  951
+1  pixels
+Area number:  952
+1  pixels
+Area number:  953
+5  pixels
+Area number:  954
+1  pixels
+Area number:  955
+1  pixels
+Area number:  956
+3  pixels
+Area number:  957
+1  pixels
+Area number:  958
+5  pixels
+Area number:  959
+2  pixels
+Area number:  960
+1  pixels
+Area number:  961
+1  pixels
+Area number:  962
+10  pixels
+Area number:  963
+1  pixels
+Area number:  964
+1  pixels
+Area number:  965
+2  pixels
+Area number:  966
+5  pixels
+Area number:  967
+38  pixels
+Area number:  968
+2  pixels
+Area number:  969
+1  pixels
+Area number:  970
+1  pixels
+Area number:  971
+1  pixels
+Area number:  972
+1  pixels
+Area number:  973
+4  pixels
+Area number:  974
+1  pixels
+Area number:  975
+1  pixels
+Area number:  976
+1  pixels
+Area number:  977
+5  pixels
+Area number:  978
+1  pixels
+Area number:  979
+1  pixels
+Area number:  980
+5  pixels
+Area number:  981
+2  pixels
+Area number:  982
+161  pixels
+Area number:  983
+1  pixels
+Area number:  984
+4  pixels
+Area number:  985
+2  pixels
+Area number:  986
+1  pixels
+Area number:  987
+23  pixels
+Area number:  988
+2  pixels
+Area number:  989
+4  pixels
+Area number:  990
+2  pixels
+Area number:  991
+2  pixels
+Area number:  992
+17  pixels
+Area number:  993
+1  pixels
+Area number:  994
+1  pixels
+Area number:  995
+1  pixels
+Area number:  996
+18  pixels
+Area number:  997
+33  pixels
+Area number:  998
+7  pixels
+Area number:  999
+1  pixels
+Area number:  1000
+1  pixels
+Area number:  1001
+1  pixels
+Area number:  1002
+1  pixels
+Area number:  1003
+6  pixels
+Area number:  1004
+2  pixels
+Area number:  1005
+1  pixels
+Area number:  1006
+4  pixels
+Area number:  1007
+13  pixels
+Area number:  1008
+2  pixels
+Area number:  1009
+13  pixels
+Area number:  1010
+1  pixels
+Area number:  1011
+1  pixels
+Area number:  1012
+1  pixels
+Area number:  1013
+1  pixels
+Area number:  1014
+6  pixels
+Area number:  1015
+3  pixels
+Area number:  1016
+4  pixels
+Area number:  1017
+13  pixels
+Area number:  1018
+1  pixels
+Area number:  1019
+1  pixels
+Area number:  1020
+1  pixels
+Area number:  1021
+1  pixels
+Area number:  1022
+1  pixels
+Area number:  1023
+1  pixels
+Area number:  1024
+327  pixels
+Area number:  1025
+1  pixels
+Area number:  1026
+1  pixels
+Area number:  1027
+1  pixels
+Area number:  1028
+3  pixels
+Area number:  1029
+7  pixels
+Area number:  1030
+3  pixels
+Area number:  1031
+22  pixels
+Area number:  1032
+1  pixels
+Area number:  1033
+3  pixels
+Area number:  1034
+15  pixels
+Area number:  1035
+1  pixels
+Area number:  1036
+2  pixels
+Area number:  1037
+2  pixels
+Area number:  1038
+8  pixels
+Area number:  1039
+2  pixels
+Area number:  1040
+2  pixels
+Area number:  1041
+1  pixels
+Area number:  1042
+1  pixels
+Area number:  1043
+5  pixels
+Area number:  1044
+1  pixels
+Area number:  1045
+3  pixels
+Area number:  1046
+11  pixels
+Area number:  1047
+1  pixels
+Area number:  1048
+1  pixels
+Area number:  1049
+16  pixels
+Area number:  1050
+2  pixels
+Area number:  1051
+2  pixels
+Area number:  1052
+1  pixels
+Area number:  1053
+1  pixels
+Area number:  1054
+1  pixels
+Area number:  1055
+1  pixels
+Area number:  1056
+3  pixels
+Area number:  1057
+1  pixels
+Area number:  1058
+1  pixels
+Area number:  1059
+7  pixels
+Area number:  1060
+1  pixels
+Area number:  1061
+2  pixels
+Area number:  1062
+16  pixels
+Area number:  1063
+1  pixels
+Area number:  1064
+399  pixels
+Area number:  1065
+2  pixels
+Area number:  1066
+8  pixels
+Area number:  1067
+1  pixels
+Area number:  1068
+1  pixels
+Area number:  1069
+1  pixels
+Area number:  1070
+1409  pixels
+Area number:  1071
+1  pixels
+Area number:  1072
+1  pixels
+Area number:  1073
+1  pixels
+Area number:  1074
+12  pixels
+Area number:  1075
+1  pixels
+Area number:  1076
+1  pixels
+Area number:  1077
+2  pixels
+Area number:  1078
+1  pixels
+Area number:  1079
+1  pixels
+Area number:  1080
+1  pixels
+Area number:  1081
+1  pixels
+Area number:  1082
+2  pixels
+Area number:  1083
+1  pixels
+Area number:  1084
+1  pixels
+Area number:  1085
+3  pixels
+Area number:  1086
+1  pixels
+Area number:  1087
+1  pixels
+Area number:  1088
+1  pixels
+Area number:  1089
+20  pixels
+Area number:  1090
+1  pixels
+Area number:  1091
+1  pixels
+Area number:  1092
+1  pixels
+Area number:  1093
+1  pixels
+Area number:  1094
+1  pixels
+Area number:  1095
+1  pixels
+Area number:  1096
+2  pixels
+Area number:  1097
+1  pixels
+Area number:  1098
+4  pixels
+Area number:  1099
+1  pixels
+Area number:  1100
+1  pixels
+Area number:  1101
+1  pixels
+Area number:  1102
+22  pixels
+Area number:  1103
+1  pixels
+Area number:  1104
+1  pixels
+Area number:  1105
+1  pixels
+Area number:  1106
+2  pixels
+Area number:  1107
+1  pixels
+Area number:  1108
+1  pixels
+Area number:  1109
+1  pixels
+Area number:  1110
+4  pixels
+Area number:  1111
+1  pixels
+Area number:  1112
+1  pixels
+Area number:  1113
+1  pixels
+Area number:  1114
+1  pixels
+Area number:  1115
+1  pixels
+Area number:  1116
+1  pixels
+Area number:  1117
+9  pixels
+Area number:  1118
+1  pixels
+Area number:  1119
+6  pixels
+Area number:  1120
+7  pixels
+Area number:  1121
+56  pixels
+Area number:  1122
+99  pixels
+Area number:  1123
+1  pixels
+Area number:  1124
+2  pixels
+Area number:  1125
+1  pixels
+Area number:  1126
+2  pixels
+Area number:  1127
+3  pixels
+Area number:  1128
+1  pixels
+Area number:  1129
+1  pixels
+Area number:  1130
+2  pixels
+Area number:  1131
+4  pixels
+Area number:  1132
+1  pixels
+Area number:  1133
+3  pixels
+Area number:  1134
+4  pixels
+Area number:  1135
+3  pixels
+Area number:  1136
+1  pixels
+Area number:  1137
+1  pixels
+Area number:  1138
+2  pixels
+Area number:  1139
+1  pixels
+Area number:  1140
+1  pixels
+Area number:  1141
+1  pixels
+Area number:  1142
+4  pixels
+Area number:  1143
+1  pixels
+Area number:  1144
+10  pixels
+Area number:  1145
+1  pixels
+Area number:  1146
+1  pixels
+Area number:  1147
+3  pixels
+Area number:  1148
+5  pixels
+Area number:  1149
+1  pixels
+Area number:  1150
+1  pixels
+Area number:  1151
+1  pixels
+Area number:  1152
+1  pixels
+Area number:  1153
+1  pixels
+Area number:  1154
+5  pixels
+Area number:  1155
+2  pixels
+Area number:  1156
+13  pixels
+Area number:  1157
+1  pixels
+Area number:  1158
+1  pixels
+Area number:  1159
+3  pixels
+Area number:  1160
+1  pixels
+Area number:  1161
+3  pixels
+Area number:  1162
+1  pixels
+Area number:  1163
+1  pixels
+Area number:  1164
+1  pixels
+Area number:  1165
+1  pixels
+Area number:  1166
+2  pixels
+Area number:  1167
+1  pixels
+Area number:  1168
+3  pixels
+Area number:  1169
+2  pixels
+Area number:  1170
+5  pixels
+Area number:  1171
+1  pixels
+Area number:  1172
+1  pixels
+Area number:  1173
+11  pixels
+Area number:  1174
+1  pixels
+Area number:  1175
+1  pixels
+Area number:  1176
+1  pixels
+Area number:  1177
+9  pixels
+Area number:  1178
+1  pixels
+Area number:  1179
+5  pixels
+Area number:  1180
+1  pixels
+Area number:  1181
+1  pixels
+Area number:  1182
+35  pixels
+Area number:  1183
+57  pixels
+Area number:  1184
+17  pixels
+Area number:  1185
+2  pixels
+Area number:  1186
+1  pixels
+Area number:  1187
+1  pixels
+Area number:  1188
+5  pixels
+Area number:  1189
+1  pixels
+Area number:  1190
+1  pixels
+Area number:  1191
+1  pixels
+Area number:  1192
+9  pixels
+Area number:  1193
+1  pixels
+Area number:  1194
+2  pixels
+Area number:  1195
+1  pixels
+Area number:  1196
+1  pixels
+Area number:  1197
+1  pixels
+Area number:  1198
+8  pixels
+Area number:  1199
+1  pixels
+Area number:  1200
+1  pixels
+Area number:  1201
+1  pixels
+Area number:  1202
+3  pixels
+Area number:  1203
+1  pixels
+Area number:  1204
+1  pixels
+Area number:  1205
+1  pixels
+Area number:  1206
+1  pixels
+Area number:  1207
+3238  pixels
+Area number:  1208
+1  pixels
+Area number:  1209
+1  pixels
+Area number:  1210
+1  pixels
+Area number:  1211
+2  pixels
+Area number:  1212
+1  pixels
+Area number:  1213
+5  pixels
+Area number:  1214
+2  pixels
+Area number:  1215
+1  pixels
+Area number:  1216
+1  pixels
+Area number:  1217
+11  pixels
+Area number:  1218
+2  pixels
+Area number:  1219
+1  pixels
+Area number:  1220
+1  pixels
+Area number:  1221
+1  pixels
+Area number:  1222
+2  pixels
+Area number:  1223
+4  pixels
+Area number:  1224
+1  pixels
+Area number:  1225
+1  pixels
+Area number:  1226
+1  pixels
+Area number:  1227
+1  pixels
+Area number:  1228
+1  pixels
+Area number:  1229
+1  pixels
+Area number:  1230
+2  pixels
+Area number:  1231
+9  pixels
+Area number:  1232
+1  pixels
+Area number:  1233
+1  pixels
+Area number:  1234
+4  pixels
+Area number:  1235
+1  pixels
+Area number:  1236
+2  pixels
+Area number:  1237
+5  pixels
+Area number:  1238
+1  pixels
+Area number:  1239
+2  pixels
+Area number:  1240
+3  pixels
+Area number:  1241
+1  pixels
+Area number:  1242
+3  pixels
+Area number:  1243
+3  pixels
+Area number:  1244
+6  pixels
+Area number:  1245
+4  pixels
+Area number:  1246
+1  pixels
+Area number:  1247
+1  pixels
+Area number:  1248
+1  pixels
+Area number:  1249
+1  pixels
+Area number:  1250
+7  pixels
+Area number:  1251
+3  pixels
+Area number:  1252
+1  pixels
+Area number:  1253
+1937  pixels
+Area number:  1254
+1  pixels
+Area number:  1255
+6  pixels
+Area number:  1256
+1  pixels
+Area number:  1257
+1  pixels
+Area number:  1258
+1  pixels
+Area number:  1259
+1  pixels
+Area number:  1260
+1  pixels
+Area number:  1261
+8  pixels
+Area number:  1262
+1  pixels
+Area number:  1263
+2  pixels
+Area number:  1264
+1  pixels
+Area number:  1265
+1  pixels
+Area number:  1266
+1  pixels
+Area number:  1267
+1  pixels
+Area number:  1268
+3  pixels
+Area number:  1269
+5  pixels
+Area number:  1270
+5  pixels
+Area number:  1271
+26  pixels
+Area number:  1272
+1  pixels
+Area number:  1273
+1  pixels
+Area number:  1274
+3  pixels
+Area number:  1275
+1  pixels
+Area number:  1276
+1  pixels
+Area number:  1277
+2  pixels
+Area number:  1278
+5  pixels
+Area number:  1279
+6  pixels
+Area number:  1280
+3  pixels
+Area number:  1281
+1  pixels
+Area number:  1282
+11  pixels
+Area number:  1283
+10  pixels
+Area number:  1284
+1  pixels
+Area number:  1285
+1  pixels
+Area number:  1286
+1  pixels
+Area number:  1287
+1  pixels
+Area number:  1288
+1  pixels
+Area number:  1289
+1  pixels
+Area number:  1290
+1  pixels
+Area number:  1291
+1  pixels
+Area number:  1292
+3  pixels
+Area number:  1293
+1  pixels
+Area number:  1294
+1  pixels
+Area number:  1295
+6  pixels
+Area number:  1296
+1  pixels
+Area number:  1297
+5  pixels
+Area number:  1298
+80  pixels
+Area number:  1299
+2  pixels
+Area number:  1300
+2  pixels
+Area number:  1301
+4  pixels
+Area number:  1302
+4  pixels
+Area number:  1303
+1  pixels
+Area number:  1304
+3  pixels
+Area number:  1305
+1  pixels
+Area number:  1306
+13  pixels
+Area number:  1307
+1  pixels
+Area number:  1308
+1  pixels
+Area number:  1309
+3  pixels
+Area number:  1310
+54  pixels
+Area number:  1311
+1  pixels
+Area number:  1312
+1  pixels
+Area number:  1313
+1  pixels
+Area number:  1314
+9  pixels
+Area number:  1315
+1  pixels
+Area number:  1316
+1  pixels
+Area number:  1317
+1  pixels
+Area number:  1318
+2  pixels
+Area number:  1319
+160  pixels
+Area number:  1320
+11  pixels
+Area number:  1321
+1  pixels
+Area number:  1322
+1  pixels
+Area number:  1323
+2  pixels
+Area number:  1324
+3  pixels
+Area number:  1325
+20  pixels
+Area number:  1326
+8  pixels
+Area number:  1327
+1  pixels
+Area number:  1328
+1  pixels
+Area number:  1329
+5  pixels
+Area number:  1330
+1  pixels
+Area number:  1331
+1  pixels
+Area number:  1332
+1  pixels
+Area number:  1333
+1  pixels
+Area number:  1334
+1  pixels
+Area number:  1335
+7  pixels
+Area number:  1336
+10  pixels
+Area number:  1337
+1  pixels
+Area number:  1338
+1  pixels
+Area number:  1339
+1  pixels
+Area number:  1340
+2  pixels
+Area number:  1341
+1  pixels
+Area number:  1342
+1  pixels
+Area number:  1343
+4  pixels
+Area number:  1344
+3  pixels
+Area number:  1345
+2  pixels
+Area number:  1346
+2  pixels
+Area number:  1347
+1  pixels
+Area number:  1348
+1  pixels
+Area number:  1349
+13  pixels
+Area number:  1350
+1  pixels
+Area number:  1351
+2  pixels
+Area number:  1352
+1  pixels
+Area number:  1353
+2  pixels
+Area number:  1354
+2  pixels
+Area number:  1355
+2  pixels
+Area number:  1356
+3  pixels
+Area number:  1357
+1  pixels
+Area number:  1358
+1  pixels
+Area number:  1359
+2  pixels
+Area number:  1360
+1  pixels
+Area number:  1361
+9  pixels
+Area number:  1362
+11  pixels
+Area number:  1363
+1  pixels
+Area number:  1364
+1  pixels
+Area number:  1365
+1  pixels
+Area number:  1366
+3  pixels
+Area number:  1367
+2  pixels
+Area number:  1368
+3  pixels
+Area number:  1369
+1  pixels
+Area number:  1370
+1  pixels
+Area number:  1371
+3  pixels
+Area number:  1372
+1  pixels
+Area number:  1373
+1  pixels
+Area number:  1374
+402  pixels
+Area number:  1375
+1  pixels
+Area number:  1376
+2  pixels
+Area number:  1377
+1  pixels
+Area number:  1378
+2  pixels
+Area number:  1379
+1  pixels
+Area number:  1380
+2  pixels
+Area number:  1381
+1  pixels
+Area number:  1382
+1  pixels
+Area number:  1383
+1  pixels
+Area number:  1384
+1  pixels
+Area number:  1385
+10  pixels
+Area number:  1386
+1  pixels
+Area number:  1387
+4  pixels
+Area number:  1388
+1  pixels
+Area number:  1389
+14  pixels
+Area number:  1390
+39  pixels
+Area number:  1391
+5  pixels
+Area number:  1392
+1  pixels
+Area number:  1393
+1  pixels
+Area number:  1394
+4  pixels
+Area number:  1395
+1  pixels
+Area number:  1396
+4  pixels
+Area number:  1397
+3  pixels
+Area number:  1398
+1  pixels
+Area number:  1399
+3  pixels
+Area number:  1400
+1  pixels
+Area number:  1401
+1  pixels
+Area number:  1402
+1  pixels
+Area number:  1403
+1  pixels
+Area number:  1404
+1  pixels
+Area number:  1405
+1  pixels
+Area number:  1406
+1  pixels
+Area number:  1407
+2  pixels
+Area number:  1408
+904  pixels
+Area number:  1409
+14  pixels
+Area number:  1410
+1  pixels
+Area number:  1411
+3  pixels
+Area number:  1412
+1  pixels
+Area number:  1413
+401  pixels
+Area number:  1414
+1  pixels
+Area number:  1415
+1  pixels
+Area number:  1416
+4  pixels
+Area number:  1417
+2  pixels
+Area number:  1418
+1  pixels
+Area number:  1419
+542  pixels
+Area number:  1420
+1  pixels
+Area number:  1421
+3  pixels
+Area number:  1422
+3  pixels
+Area number:  1423
+8  pixels
+Area number:  1424
+2  pixels
+Area number:  1425
+27  pixels
+Area number:  1426
+1  pixels
+Area number:  1427
+1  pixels
+Area number:  1428
+1  pixels
+Area number:  1429
+1  pixels
+Area number:  1430
+9  pixels
+Area number:  1431
+3  pixels
+Area number:  1432
+19  pixels
+Area number:  1433
+35  pixels
+Area number:  1434
+1  pixels
+Area number:  1435
+25  pixels
+Area number:  1436
+3  pixels
+Area number:  1437
+13  pixels
+Area number:  1438
+98  pixels
+Area number:  1439
+1  pixels
+Area number:  1440
+6  pixels
+Area number:  1441
+25  pixels
+Area number:  1442
+1  pixels
+Area number:  1443
+11  pixels
+Area number:  1444
+4  pixels
+Area number:  1445
+2  pixels
+Area number:  1446
+1  pixels
+Area number:  1447
+1  pixels
+Area number:  1448
+1  pixels
+Area number:  1449
+9  pixels
+Area number:  1450
+1  pixels
+Area number:  1451
+1  pixels
+Area number:  1452
+9  pixels
+Area number:  1453
+7  pixels
+Area number:  1454
+2  pixels
+Area number:  1455
+1  pixels
+Area number:  1456
+25  pixels
+Area number:  1457
+2  pixels
+Area number:  1458
+1  pixels
+Area number:  1459
+1  pixels
+Area number:  1460
+1  pixels
+Area number:  1461
+2  pixels
+Area number:  1462
+8  pixels
+Area number:  1463
+1  pixels
+Area number:  1464
+1  pixels
+Area number:  1465
+1  pixels
+Area number:  1466
+16  pixels
+Area number:  1467
+1  pixels
+Area number:  1468
+1  pixels
+Area number:  1469
+1  pixels
+Area number:  1470
+1  pixels
+Area number:  1471
+1  pixels
+Area number:  1472
+1  pixels
+Area number:  1473
+1  pixels
+Area number:  1474
+7  pixels
+Area number:  1475
+1  pixels
+Area number:  1476
+2  pixels
+Area number:  1477
+1  pixels
+Area number:  1478
+1  pixels
+Area number:  1479
+1  pixels
+Area number:  1480
+2  pixels
+Area number:  1481
+1  pixels
+Area number:  1482
+1  pixels
+Area number:  1483
+3  pixels
+Area number:  1484
+19  pixels
+Area number:  1485
+1  pixels
+Area number:  1486
+1  pixels
+Area number:  1487
+24  pixels
+Area number:  1488
+4  pixels
+Area number:  1489
+1  pixels
+Area number:  1490
+1  pixels
+Area number:  1491
+2  pixels
+Area number:  1492
+1  pixels
+Area number:  1493
+8  pixels
+Area number:  1494
+2  pixels
+Area number:  1495
+1394  pixels
+Area number:  1496
+3  pixels
+Area number:  1497
+4  pixels
+Area number:  1498
+1  pixels
+Area number:  1499
+1  pixels
+Area number:  1500
+5  pixels
+Area number:  1501
+1  pixels
+Area number:  1502
+3  pixels
+Area number:  1503
+2  pixels
+Area number:  1504
+2  pixels
+Area number:  1505
+1  pixels
+Area number:  1506
+19  pixels
+Area number:  1507
+6  pixels
+Area number:  1508
+2  pixels
+Area number:  1509
+1  pixels
+Area number:  1510
+9  pixels
+Area number:  1511
+2  pixels
+Area number:  1512
+1  pixels
+Area number:  1513
+1  pixels
+Area number:  1514
+1  pixels
+Area number:  1515
+1  pixels
+Area number:  1516
+314  pixels
+Area number:  1517
+1  pixels
+Area number:  1518
+1  pixels
+Area number:  1519
+1  pixels
+Area number:  1520
+1  pixels
+Area number:  1521
+2  pixels
+Area number:  1522
+1  pixels
+Area number:  1523
+11  pixels
+Area number:  1524
+3  pixels
+Area number:  1525
+21  pixels
+Area number:  1526
+1  pixels
+Area number:  1527
+2  pixels
+Area number:  1528
+4  pixels
+Area number:  1529
+1  pixels
+Area number:  1530
+1  pixels
+Area number:  1531
+2  pixels
+Area number:  1532
+11  pixels
+Area number:  1533
+1  pixels
+Area number:  1534
+2  pixels
+Area number:  1535
+1  pixels
+Area number:  1536
+2  pixels
+Area number:  1537
+1  pixels
+Area number:  1538
+7  pixels
+Area number:  1539
+6  pixels
+Area number:  1540
+2  pixels
+Area number:  1541
+1  pixels
+Area number:  1542
+1  pixels
+Area number:  1543
+1  pixels
+Area number:  1544
+1  pixels
+Area number:  1545
+1  pixels
+Area number:  1546
+1  pixels
+Area number:  1547
+1  pixels
+Area number:  1548
+1  pixels
+Area number:  1549
+1  pixels
+Area number:  1550
+1  pixels
+Area number:  1551
+1  pixels
+Area number:  1552
+5  pixels
+Area number:  1553
+3  pixels
+Area number:  1554
+1  pixels
+Area number:  1555
+1  pixels
+Area number:  1556
+12  pixels
+Area number:  1557
+1  pixels
+Area number:  1558
+10  pixels
+Area number:  1559
+8  pixels
+Area number:  1560
+1  pixels
+Area number:  1561
+1  pixels
+Area number:  1562
+921  pixels
+Area number:  1563
+1  pixels
+Area number:  1564
+5  pixels
+Area number:  1565
+1  pixels
+Area number:  1566
+3  pixels
+Area number:  1567
+1  pixels
+Area number:  1568
+5  pixels
+Area number:  1569
+1  pixels
+Area number:  1570
+2  pixels
+Area number:  1571
+1  pixels
+Area number:  1572
+3  pixels
+Area number:  1573
+1  pixels
+Area number:  1574
+1  pixels
+Area number:  1575
+1  pixels
+Area number:  1576
+2  pixels
+Area number:  1577
+1  pixels
+Area number:  1578
+1  pixels
+Area number:  1579
+1  pixels
+Area number:  1580
+1  pixels
+Area number:  1581
+1  pixels
+Area number:  1582
+5  pixels
+Area number:  1583
+2  pixels
+Area number:  1584
+2  pixels
+Area number:  1585
+3  pixels
+Area number:  1586
+1  pixels
+Area number:  1587
+1  pixels
+Area number:  1588
+1  pixels
+Area number:  1589
+3  pixels
+Area number:  1590
+1  pixels
+Area number:  1591
+1  pixels
+Area number:  1592
+2  pixels
+Area number:  1593
+199  pixels
+Area number:  1594
+2  pixels
+Area number:  1595
+1  pixels
+Area number:  1596
+1  pixels
+Area number:  1597
+2  pixels
+Area number:  1598
+1  pixels
+Area number:  1599
+1  pixels
+Area number:  1600
+1  pixels
+Area number:  1601
+1  pixels
+Area number:  1602
+1  pixels
+Area number:  1603
+1  pixels
+Area number:  1604
+1  pixels
+Area number:  1605
+1  pixels
+Area number:  1606
+1  pixels
+Area number:  1607
+1  pixels
+Area number:  1608
+1  pixels
+Area number:  1609
+2  pixels
+Area number:  1610
+3  pixels
+Area number:  1611
+6  pixels
+Area number:  1612
+1  pixels
+Area number:  1613
+3  pixels
+Area number:  1614
+2  pixels
+Area number:  1615
+1  pixels
+Area number:  1616
+1  pixels
+Area number:  1617
+11  pixels
+Area number:  1618
+1  pixels
+Area number:  1619
+1  pixels
+Area number:  1620
+1  pixels
+Area number:  1621
+1  pixels
+Area number:  1622
+4  pixels
+Area number:  1623
+1  pixels
+Area number:  1624
+1  pixels
+Area number:  1625
+1  pixels
+Area number:  1626
+10  pixels
+Area number:  1627
+1  pixels
+Area number:  1628
+1  pixels
+Area number:  1629
+1  pixels
+Area number:  1630
+4  pixels
+Area number:  1631
+5  pixels
+Area number:  1632
+1  pixels
+Area number:  1633
+22  pixels
+Area number:  1634
+1  pixels
+Area number:  1635
+1  pixels
+Area number:  1636
+4  pixels
+Area number:  1637
+1  pixels
+Area number:  1638
+2  pixels
+Area number:  1639
+1  pixels
+Area number:  1640
+1  pixels
+Area number:  1641
+1  pixels
+Area number:  1642
+2  pixels
+Area number:  1643
+1  pixels
+Area number:  1644
+2  pixels
+Area number:  1645
+1  pixels
+Area number:  1646
+3  pixels
+Area number:  1647
+1  pixels
+Area number:  1648
+1  pixels
+Area number:  1649
+1  pixels
+Area number:  1650
+2  pixels
+Area number:  1651
+5  pixels
+Area number:  1652
+566  pixels
+Area number:  1653
+2  pixels
+Area number:  1654
+49  pixels
+Area number:  1655
+1  pixels
+Area number:  1656
+2  pixels
+Area number:  1657
+1  pixels
+Area number:  1658
+2  pixels
+Area number:  1659
+11  pixels
+Area number:  1660
+1  pixels
+Area number:  1661
+1  pixels
+Area number:  1662
+1  pixels
+Area number:  1663
+1  pixels
+Area number:  1664
+83  pixels
+Area number:  1665
+2  pixels
+Area number:  1666
+5  pixels
+Area number:  1667
+3  pixels
+Area number:  1668
+10  pixels
+Area number:  1669
+1  pixels
+Area number:  1670
+3  pixels
+Area number:  1671
+15  pixels
+Area number:  1672
+2  pixels
+Area number:  1673
+2  pixels
+Area number:  1674
+2  pixels
+Area number:  1675
+2  pixels
+Area number:  1676
+423  pixels
+Area number:  1677
+1  pixels
+Area number:  1678
+1  pixels
+Area number:  1679
+1  pixels
+Area number:  1680
+1  pixels
+Area number:  1681
+3  pixels
+Area number:  1682
+7  pixels
+Area number:  1683
+1  pixels
+Area number:  1684
+6  pixels
+Area number:  1685
+1  pixels
+Area number:  1686
+2  pixels
+Area number:  1687
+7  pixels
+Area number:  1688
+1  pixels
+Area number:  1689
+2  pixels
+Area number:  1690
+6  pixels
+Area number:  1691
+2  pixels
+Area number:  1692
+1  pixels
+Area number:  1693
+2  pixels
+Area number:  1694
+1  pixels
+Area number:  1695
+2  pixels
+Area number:  1696
+5  pixels
+Area number:  1697
+1  pixels
+Area number:  1698
+1  pixels
+Area number:  1699
+1  pixels
+Area number:  1700
+1  pixels
+Area number:  1701
+1  pixels
+Area number:  1702
+1  pixels
+Area number:  1703
+1  pixels
+Area number:  1704
+1  pixels
+Area number:  1705
+2  pixels
+Area number:  1706
+5  pixels
+Area number:  1707
+1  pixels
+Area number:  1708
+111  pixels
+Area number:  1709
+1  pixels
+Area number:  1710
+1  pixels
+Area number:  1711
+1  pixels
+Area number:  1712
+11  pixels
+Area number:  1713
+1  pixels
+Area number:  1714
+1  pixels
+Area number:  1715
+1  pixels
+Area number:  1716
+1  pixels
+Area number:  1717
+1  pixels
+Area number:  1718
+1  pixels
+Area number:  1719
+2  pixels
+Area number:  1720
+142  pixels
+Area number:  1721
+14  pixels
+Area number:  1722
+1  pixels
+Area number:  1723
+8  pixels
+Area number:  1724
+1  pixels
+Area number:  1725
+1  pixels
+Area number:  1726
+2  pixels
+Area number:  1727
+234  pixels
+Area number:  1728
+17  pixels
+Area number:  1729
+1  pixels
+Area number:  1730
+1  pixels
+Area number:  1731
+7  pixels
+Area number:  1732
+1  pixels
+Area number:  1733
+2  pixels
+Area number:  1734
+1  pixels
+Area number:  1735
+1  pixels
+Area number:  1736
+1  pixels
+Area number:  1737
+1  pixels
+Area number:  1738
+1  pixels
+Area number:  1739
+1  pixels
+Area number:  1740
+1  pixels
+Area number:  1741
+1  pixels
+Area number:  1742
+1  pixels
+Area number:  1743
+2  pixels
+Area number:  1744
+1  pixels
+Area number:  1745
+1  pixels
+Area number:  1746
+1  pixels
+Area number:  1747
+1  pixels
+Area number:  1748
+1  pixels
+Area number:  1749
+15  pixels
+Area number:  1750
+1  pixels
+Area number:  1751
+2  pixels
+Area number:  1752
+1  pixels
+Area number:  1753
+2  pixels
+Area number:  1754
+1  pixels
+Area number:  1755
+1  pixels
+Area number:  1756
+1  pixels
+Area number:  1757
+2  pixels
+Area number:  1758
+2  pixels
+Area number:  1759
+1  pixels
+Area number:  1760
+1  pixels
+Area number:  1761
+1  pixels
+Area number:  1762
+20  pixels
+Area number:  1763
+2  pixels
+Area number:  1764
+2  pixels
+Area number:  1765
+1  pixels
+Area number:  1766
+1  pixels
+Area number:  1767
+1  pixels
+Area number:  1768
+1  pixels
+Area number:  1769
+1  pixels
+Area number:  1770
+9  pixels
+Area number:  1771
+2  pixels
+Area number:  1772
+1  pixels
+Area number:  1773
+10  pixels
+Area number:  1774
+6  pixels
+Area number:  1775
+1  pixels
+Area number:  1776
+2  pixels
+Area number:  1777
+2  pixels
+Area number:  1778
+1  pixels
+Area number:  1779
+4  pixels
+Area number:  1780
+2  pixels
+Area number:  1781
+2  pixels
+Area number:  1782
+2  pixels
+Area number:  1783
+1  pixels
+Area number:  1784
+1  pixels
+Area number:  1785
+1  pixels
+Area number:  1786
+4  pixels
+Area number:  1787
+2  pixels
+Area number:  1788
+1  pixels
+Area number:  1789
+1  pixels
+Area number:  1790
+4  pixels
+Area number:  1791
+3  pixels
+Area number:  1792
+2  pixels
+Area number:  1793
+11  pixels
+Area number:  1794
+2  pixels
+Area number:  1795
+13  pixels
+Area number:  1796
+1  pixels
+Area number:  1797
+1  pixels
+Area number:  1798
+1  pixels
+Area number:  1799
+1  pixels
+Area number:  1800
+1  pixels
+Area number:  1801
+2  pixels
+Area number:  1802
+1  pixels
+Area number:  1803
+2  pixels
+Area number:  1804
+1  pixels
+Area number:  1805
+7  pixels
+Area number:  1806
+2  pixels
+Area number:  1807
+1  pixels
+Area number:  1808
+2  pixels
+Area number:  1809
+1  pixels
+Area number:  1810
+1  pixels
+Area number:  1811
+1  pixels
+Area number:  1812
+2  pixels
+Area number:  1813
+1  pixels
+Area number:  1814
+1  pixels
+Area number:  1815
+2  pixels
+Area number:  1816
+1  pixels
+Area number:  1817
+4  pixels
+Area number:  1818
+5  pixels
+Area number:  1819
+1  pixels
+Area number:  1820
+1  pixels
+Area number:  1821
+1  pixels
+Area number:  1822
+1  pixels
+Area number:  1823
+2  pixels
+Area number:  1824
+3  pixels
+Area number:  1825
+1  pixels
+Area number:  1826
+1  pixels
+Area number:  1827
+1  pixels
+Area number:  1828
+2  pixels
+Area number:  1829
+1  pixels
+Area number:  1830
+5  pixels
+Area number:  1831
+1  pixels
+Area number:  1832
+2  pixels
+Area number:  1833
+1  pixels
+Area number:  1834
+1  pixels
+Area number:  1835
+1  pixels
+Area number:  1836
+6  pixels
+Area number:  1837
+1  pixels
+Area number:  1838
+1  pixels
+Area number:  1839
+1  pixels
+Area number:  1840
+1  pixels
+Area number:  1841
+1  pixels
+Area number:  1842
+1  pixels
+Area number:  1843
+1  pixels
+Area number:  1844
+1  pixels
+Area number:  1845
+1  pixels
+Area number:  1846
+1  pixels
+Area number:  1847
+3  pixels
+Area number:  1848
+1  pixels
+Area number:  1849
+2  pixels
+Area number:  1850
+1  pixels
+Area number:  1851
+3  pixels
+Area number:  1852
+2  pixels
+Area number:  1853
+12  pixels
+Area number:  1854
+4  pixels
+Area number:  1855
+1  pixels
+Area number:  1856
+1  pixels
+Area number:  1857
+1  pixels
+Area number:  1858
+1  pixels
+Area number:  1859
+2  pixels
+Area number:  1860
+5  pixels
+Area number:  1861
+4  pixels
+Area number:  1862
+1  pixels
+Area number:  1863
+1  pixels
+Area number:  1864
+6  pixels
+Area number:  1865
+3  pixels
+Area number:  1866
+98  pixels
+Area number:  1867
+1  pixels
+Area number:  1868
+1  pixels
+Area number:  1869
+1  pixels
+Area number:  1870
+1  pixels
+Area number:  1871
+1  pixels
+Area number:  1872
+1  pixels
+Area number:  1873
+8  pixels
+Area number:  1874
+2  pixels
+Area number:  1875
+5  pixels
+Area number:  1876
+4  pixels
+Area number:  1877
+1  pixels
+Area number:  1878
+1  pixels
+Area number:  1879
+2  pixels
+Area number:  1880
+1  pixels
+Area number:  1881
+1  pixels
+Area number:  1882
+1  pixels
+Area number:  1883
+1  pixels
+Area number:  1884
+2  pixels
+Area number:  1885
+5  pixels
+Area number:  1886
+1  pixels
+Area number:  1887
+373  pixels
+Area number:  1888
+1  pixels
+Area number:  1889
+1  pixels
+Area number:  1890
+1  pixels
+Area number:  1891
+1  pixels
+Area number:  1892
+3  pixels
+Area number:  1893
+2  pixels
+Area number:  1894
+4  pixels
+Area number:  1895
+1  pixels
+Area number:  1896
+1  pixels
+Area number:  1897
+1  pixels
+Area number:  1898
+1  pixels
+Area number:  1899
+1  pixels
+Area number:  1900
+1  pixels
+Area number:  1901
+1  pixels
+Area number:  1902
+8  pixels
+Area number:  1903
+3  pixels
+Area number:  1904
+2  pixels
+Area number:  1905
+7  pixels
+Area number:  1906
+2  pixels
+Area number:  1907
+1  pixels
+Area number:  1908
+2  pixels
+Area number:  1909
+2  pixels
+Area number:  1910
+1  pixels
+Area number:  1911
+1  pixels
+Area number:  1912
+1  pixels
+Area number:  1913
+2  pixels
+Area number:  1914
+2  pixels
+Area number:  1915
+6  pixels
+Area number:  1916
+2  pixels
+Area number:  1917
+1  pixels
+Area number:  1918
+3  pixels
+Area number:  1919
+1  pixels
+Area number:  1920
+6  pixels
+Area number:  1921
+1  pixels
+Area number:  1922
+5  pixels
+Area number:  1923
+1  pixels
+Area number:  1924
+1  pixels
+Area number:  1925
+1  pixels
+Area number:  1926
+1  pixels
+Area number:  1927
+5  pixels
+Area number:  1928
+1  pixels
+Area number:  1929
+1  pixels
+Area number:  1930
+1  pixels
+Area number:  1931
+2  pixels
+Area number:  1932
+1  pixels
+Area number:  1933
+1  pixels
+Area number:  1934
+2  pixels
+Area number:  1935
+3  pixels
+Area number:  1936
+1  pixels
+Area number:  1937
+1  pixels
+Area number:  1938
+1  pixels
+Area number:  1939
+2  pixels
+Area number:  1940
+2  pixels
+Area number:  1941
+2  pixels
+Area number:  1942
+6  pixels
+Area number:  1943
+3  pixels
+Area number:  1944
+1  pixels
+Area number:  1945
+1  pixels
+Area number:  1946
+4  pixels
+Area number:  1947
+1  pixels
+Area number:  1948
+4  pixels
+Area number:  1949
+6  pixels
+Area number:  1950
+2  pixels
+Area number:  1951
+1  pixels
+Area number:  1952
+1  pixels
+Area number:  1953
+1  pixels
+Area number:  1954
+3  pixels
+Area number:  1955
+3  pixels
+Area number:  1956
+2  pixels
+Area number:  1957
+2  pixels
+Area number:  1958
+1  pixels
+Area number:  1959
+1  pixels
+Area number:  1960
+5  pixels
+Area number:  1961
+2  pixels
+Area number:  1962
+1  pixels
+Area number:  1963
+2  pixels
+Area number:  1964
+1  pixels
+Area number:  1965
+1  pixels
+Area number:  1966
+1  pixels
+Area number:  1967
+2  pixels
+Area number:  1968
+1  pixels
+Area number:  1969
+1  pixels
+Area number:  1970
+1  pixels
+Area number:  1971
+1  pixels
+Area number:  1972
+2  pixels
+Area number:  1973
+1  pixels
+Area number:  1974
+2  pixels
+Area number:  1975
+1  pixels
+Area number:  1976
+1  pixels
+Area number:  1977
+2  pixels
+Area number:  1978
+4  pixels
+Area number:  1979
+1  pixels
+Area number:  1980
+6  pixels
+Area number:  1981
+1  pixels
+Area number:  1982
+3  pixels
+Area number:  1983
+2  pixels
+Area number:  1984
+4  pixels
+Area number:  1985
+1  pixels
+Area number:  1986
+3  pixels
+Area number:  1987
+7  pixels
+Area number:  1988
+1  pixels
+Area number:  1989
+1  pixels
+Area number:  1990
+1  pixels
+Area number:  1991
+4  pixels
+Area number:  1992
+15  pixels
+Area number:  1993
+1  pixels
+Area number:  1994
+8  pixels
+Area number:  1995
+3  pixels
+Area number:  1996
+1  pixels
+Area number:  1997
+1  pixels
+Area number:  1998
+1  pixels
+Area number:  1999
+1  pixels
+Area number:  2000
+7  pixels
+Area number:  2001
+1  pixels
+Area number:  2002
+8  pixels
+Area number:  2003
+16  pixels
+Area number:  2004
+1  pixels
+Area number:  2005
+1  pixels
+Area number:  2006
+1  pixels
+Area number:  2007
+2  pixels
+Area number:  2008
+1  pixels
+Area number:  2009
+41  pixels
+Area number:  2010
+1  pixels
+Area number:  2011
+1  pixels
+Area number:  2012
+2  pixels
+Area number:  2013
+1  pixels
+Area number:  2014
+1  pixels
+Area number:  2015
+1  pixels
+Area number:  2016
+1  pixels
+Area number:  2017
+4  pixels
+Area number:  2018
+1  pixels
+Area number:  2019
+2  pixels
+Area number:  2020
+4  pixels
+Area number:  2021
+1  pixels
+Area number:  2022
+1  pixels
+Area number:  2023
+1  pixels
+Area number:  2024
+3  pixels
+Area number:  2025
+7  pixels
+Area number:  2026
+3  pixels
+Area number:  2027
+1  pixels
+Area number:  2028
+13  pixels
+Area number:  2029
+1  pixels
+Area number:  2030
+7  pixels
+Area number:  2031
+2  pixels
+Area number:  2032
+2  pixels
+Area number:  2033
+1  pixels
+Area number:  2034
+5  pixels
+Area number:  2035
+2  pixels
+Area number:  2036
+1  pixels
+Area number:  2037
+1  pixels
+Area number:  2038
+5  pixels
+Area number:  2039
+2  pixels
+Area number:  2040
+6  pixels
+Area number:  2041
+2  pixels
+Area number:  2042
+1  pixels
+Area number:  2043
+11  pixels
+Area number:  2044
+1  pixels
+Area number:  2045
+1  pixels
+Area number:  2046
+2  pixels
+Area number:  2047
+1  pixels
+Area number:  2048
+1  pixels
+Area number:  2049
+1  pixels
+Area number:  2050
+1  pixels
+Area number:  2051
+1  pixels
+Area number:  2052
+5  pixels
+Area number:  2053
+1  pixels
+Area number:  2054
+5  pixels
+Area number:  2055
+2  pixels
+Area number:  2056
+1  pixels
+Area number:  2057
+3  pixels
+Area number:  2058
+5  pixels
+Area number:  2059
+1  pixels
+Area number:  2060
+14  pixels
+Area number:  2061
+3  pixels
+Area number:  2062
+1  pixels
+Area number:  2063
+1  pixels
+Area number:  2064
+4  pixels
+Area number:  2065
+15  pixels
+Area number:  2066
+1  pixels
+Area number:  2067
+1  pixels
+Area number:  2068
+1  pixels
+Area number:  2069
+3  pixels
+Area number:  2070
+2  pixels
+Area number:  2071
+1  pixels
+Area number:  2072
+1  pixels
+Area number:  2073
+1  pixels
+Area number:  2074
+2  pixels
+Area number:  2075
+3  pixels
+Area number:  2076
+2  pixels
+Area number:  2077
+1  pixels
+Area number:  2078
+2  pixels
+Area number:  2079
+2  pixels
+Area number:  2080
+1  pixels
+Area number:  2081
+1  pixels
+Area number:  2082
+1  pixels
+Area number:  2083
+1  pixels
+Area number:  2084
+1  pixels
+Area number:  2085
+2  pixels
+Area number:  2086
+1  pixels
+Area number:  2087
+2  pixels
+Area number:  2088
+1  pixels
+Area number:  2089
+1  pixels
+Area number:  2090
+2  pixels
+Area number:  2091
+8  pixels
+Area number:  2092
+16  pixels
+Area number:  2093
+1  pixels
+Area number:  2094
+2  pixels
+Area number:  2095
+1  pixels
+Area number:  2096
+3  pixels
+Area number:  2097
+1  pixels
+Area number:  2098
+2  pixels
+Area number:  2099
+1  pixels
+Area number:  2100
+2  pixels
+Area number:  2101
+10  pixels
+Area number:  2102
+1  pixels
+Area number:  2103
+1  pixels
+Area number:  2104
+16  pixels
+Area number:  2105
+1  pixels
+Area number:  2106
+1  pixels
+Area number:  2107
+1  pixels
+Area number:  2108
+1  pixels
+Area number:  2109
+2  pixels
+Area number:  2110
+18  pixels
+Area number:  2111
+12  pixels
+Area number:  2112
+6  pixels
+Area number:  2113
+7  pixels
+Area number:  2114
+4  pixels
+Area number:  2115
+13  pixels
+Area number:  2116
+1  pixels
+Area number:  2117
+1  pixels
+Area number:  2118
+1  pixels
+Area number:  2119
+1  pixels
+Area number:  2120
+1  pixels
+Area number:  2121
+7  pixels
+Area number:  2122
+1  pixels
+Area number:  2123
+1  pixels
+Area number:  2124
+3  pixels
+Area number:  2125
+1  pixels
+Area number:  2126
+6  pixels
+Area number:  2127
+1  pixels
+Area number:  2128
+1  pixels
+Area number:  2129
+1  pixels
+Area number:  2130
+1  pixels
+Area number:  2131
+1  pixels
+Area number:  2132
+3  pixels
+Area number:  2133
+5  pixels
+Area number:  2134
+1  pixels
+Area number:  2135
+2  pixels
+Area number:  2136
+2  pixels
+Area number:  2137
+3  pixels
+Area number:  2138
+1  pixels
+Area number:  2139
+15  pixels
+Area number:  2140
+1  pixels
+Area number:  2141
+1  pixels
+Area number:  2142
+3  pixels
+Area number:  2143
+5  pixels
+Area number:  2144
+1  pixels
+Area number:  2145
+3  pixels
+Area number:  2146
+1  pixels
+Area number:  2147
+1  pixels
+Area number:  2148
+1  pixels
+Area number:  2149
+3  pixels
+Area number:  2150
+10  pixels
+Area number:  2151
+1  pixels
+Area number:  2152
+3  pixels
+Area number:  2153
+1  pixels
+Area number:  2154
+1  pixels
+Area number:  2155
+1  pixels
+Area number:  2156
+6  pixels
+Area number:  2157
+1  pixels
+Area number:  2158
+8  pixels
+Area number:  2159
+1  pixels
+Area number:  2160
+1  pixels
+Area number:  2161
+2  pixels
+Area number:  2162
+1  pixels
+Area number:  2163
+2  pixels
+Area number:  2164
+2  pixels
+Area number:  2165
+2  pixels
+Area number:  2166
+1  pixels
+Area number:  2167
+2  pixels
+Area number:  2168
+2  pixels
+Area number:  2169
+2  pixels
+Area number:  2170
+1  pixels
+Area number:  2171
+1  pixels
+Area number:  2172
+2  pixels
+Area number:  2173
+2  pixels
+Area number:  2174
+1  pixels
+Area number:  2175
+2  pixels
+Area number:  2176
+1  pixels
+Area number:  2177
+9  pixels
+Area number:  2178
+1  pixels
+Area number:  2179
+9  pixels
+Area number:  2180
+2  pixels
+Area number:  2181
+1  pixels
+Area number:  2182
+2  pixels
+Area number:  2183
+2  pixels
+Area number:  2184
+5  pixels
+Area number:  2185
+1  pixels
+Area number:  2186
+1  pixels
+Area number:  2187
+6  pixels
+Area number:  2188
+1  pixels
+Area number:  2189
+2  pixels
+Area number:  2190
+4  pixels
+Area number:  2191
+1  pixels
+Area number:  2192
+2  pixels
+Area number:  2193
+1  pixels
+Area number:  2194
+3  pixels
+Area number:  2195
+2  pixels
+Area number:  2196
+12  pixels
+Area number:  2197
+23  pixels
+Area number:  2198
+3  pixels
+Area number:  2199
+1  pixels
+Area number:  2200
+1  pixels
+Area number:  2201
+1  pixels
+Area number:  2202
+6  pixels
+Area number:  2203
+2  pixels
+Area number:  2204
+1  pixels
+Area number:  2205
+1  pixels
+Area number:  2206
+1  pixels
+Area number:  2207
+1  pixels
+Area number:  2208
+1  pixels
+Area number:  2209
+7  pixels
+Area number:  2210
+1  pixels
+Area number:  2211
+5  pixels
+Area number:  2212
+1  pixels
+Area number:  2213
+21  pixels
+Area number:  2214
+9  pixels
+Area number:  2215
+5  pixels
+Area number:  2216
+5  pixels
+Area number:  2217
+1  pixels
+Area number:  2218
+1  pixels
+Area number:  2219
+1  pixels
+Area number:  2220
+1  pixels
+Area number:  2221
+2  pixels
+Area number:  2222
+1  pixels
+Area number:  2223
+16  pixels
+Area number:  2224
+10  pixels
+Area number:  2225
+2  pixels
+Area number:  2226
+1  pixels
+Area number:  2227
+1  pixels
+Area number:  2228
+6  pixels
+Area number:  2229
+3  pixels
+Area number:  2230
+3  pixels
+Area number:  2231
+1  pixels
+Area number:  2232
+6  pixels
+Area number:  2233
+1  pixels
+Area number:  2234
+1  pixels
+Area number:  2235
+2  pixels
+Area number:  2236
+1  pixels
+Area number:  2237
+4  pixels
+Area number:  2238
+1  pixels
+Area number:  2239
+1  pixels
+Area number:  2240
+2  pixels
+Area number:  2241
+1  pixels
+Area number:  2242
+1  pixels
+Area number:  2243
+5  pixels
+Area number:  2244
+5  pixels
+Area number:  2245
+2  pixels
+Area number:  2246
+3  pixels
+Area number:  2247
+2  pixels
+Area number:  2248
+1  pixels
+Area number:  2249
+1  pixels
+Area number:  2250
+1  pixels
+Area number:  2251
+1  pixels
+Area number:  2252
+1  pixels
+Area number:  2253
+2  pixels
+Area number:  2254
+2  pixels
+Area number:  2255
+1  pixels
+Area number:  2256
+1  pixels
+Area number:  2257
+1  pixels
+Area number:  2258
+1  pixels
+Area number:  2259
+1  pixels
+Area number:  2260
+5  pixels
+Area number:  2261
+1  pixels
+Area number:  2262
+1  pixels
+Area number:  2263
+1  pixels
+Area number:  2264
+1  pixels
+Area number:  2265
+1  pixels
+Area number:  2266
+1  pixels
+Area number:  2267
+1  pixels
+Area number:  2268
+1  pixels
+Area number:  2269
+1  pixels
+Area number:  2270
+2  pixels
+Area number:  2271
+4  pixels
+Area number:  2272
+1  pixels
+Area number:  2273
+5  pixels
+Area number:  2274
+2  pixels
+Area number:  2275
+2  pixels
+Area number:  2276
+1  pixels
+Area number:  2277
+1  pixels
+Area number:  2278
+7  pixels
+Area number:  2279
+2  pixels
+Area number:  2280
+1  pixels
+Area number:  2281
+13  pixels
+Area number:  2282
+3  pixels
+Area number:  2283
+1  pixels
+Area number:  2284
+1  pixels
+Area number:  2285
+1  pixels
+Area number:  2286
+2  pixels
+Area number:  2287
+1  pixels
+Area number:  2288
+3  pixels
+Area number:  2289
+3  pixels
+Area number:  2290
+2  pixels
+Area number:  2291
+4  pixels
+Area number:  2292
+1  pixels
+Area number:  2293
+1  pixels
+Area number:  2294
+7  pixels
+Area number:  2295
+2  pixels
+Area number:  2296
+1  pixels
+Area number:  2297
+3  pixels
+Area number:  2298
+1  pixels
+Area number:  2299
+1  pixels
+Area number:  2300
+1  pixels
+Area number:  2301
+1  pixels
+Area number:  2302
+1  pixels
+Area number:  2303
+1  pixels
+Area number:  2304
+5  pixels
+Area number:  2305
+3  pixels
+Area number:  2306
+4  pixels
+Area number:  2307
+1  pixels
+Area number:  2308
+2  pixels
+Area number:  2309
+1  pixels
+Area number:  2310
+1  pixels
+Area number:  2311
+1  pixels
+Area number:  2312
+2  pixels
+Area number:  2313
+1  pixels
+Area number:  2314
+1  pixels
+Area number:  2315
+1  pixels
+Area number:  2316
+3  pixels
+Area number:  2317
+1  pixels
+Area number:  2318
+5  pixels
+Area number:  2319
+5  pixels
+Area number:  2320
+1  pixels
+Area number:  2321
+1  pixels
+Area number:  2322
+2  pixels
+Area number:  2323
+3  pixels
+Area number:  2324
+1  pixels
+Area number:  2325
+1  pixels
+Area number:  2326
+1  pixels
+Area number:  2327
+5  pixels
+Area number:  2328
+1  pixels
+Area number:  2329
+1  pixels
+Area number:  2330
+1  pixels
+Area number:  2331
+6  pixels
+Area number:  2332
+2  pixels
+Area number:  2333
+2  pixels
+Area number:  2334
+1  pixels
+Area number:  2335
+1  pixels
+Area number:  2336
+19  pixels
+Area number:  2337
+1  pixels
+Area number:  2338
+5  pixels
+Area number:  2339
+2  pixels
+Area number:  2340
+1  pixels
+Area number:  2341
+16  pixels
+Area number:  2342
+2  pixels
+Area number:  2343
+1  pixels
+Area number:  2344
+1  pixels
+Area number:  2345
+1  pixels
+Area number:  2346
+1  pixels
+Area number:  2347
+2  pixels
+Area number:  2348
+1  pixels
+Area number:  2349
+2  pixels
+Area number:  2350
+1  pixels
+Area number:  2351
+1  pixels
+Area number:  2352
+1  pixels
+Area number:  2353
+1  pixels
+Area number:  2354
+2  pixels
+Area number:  2355
+1  pixels
+Area number:  2356
+1  pixels
+Area number:  2357
+1  pixels
+Area number:  2358
+3  pixels
+Area number:  2359
+1  pixels
+Area number:  2360
+10  pixels
+Area number:  2361
+2  pixels
+Area number:  2362
+2  pixels
+Area number:  2363
+21  pixels
+Area number:  2364
+2  pixels
+Area number:  2365
+1  pixels
+Area number:  2366
+2  pixels
+Area number:  2367
+1  pixels
+Area number:  2368
+3  pixels
+Area number:  2369
+1  pixels
+Area number:  2370
+3  pixels
+Area number:  2371
+1  pixels
+Area number:  2372
+1  pixels
+Area number:  2373
+2  pixels
+Area number:  2374
+1  pixels
+Area number:  2375
+2  pixels
+Area number:  2376
+4  pixels
+Area number:  2377
+6  pixels
+Area number:  2378
+1  pixels
+Area number:  2379
+1  pixels
+Area number:  2380
+1  pixels
+Area number:  2381
+2  pixels
+Area number:  2382
+7  pixels
+Area number:  2383
+1  pixels
+Area number:  2384
+1  pixels
+Area number:  2385
+4  pixels
+Area number:  2386
+2  pixels
+Area number:  2387
+5  pixels
+Area number:  2388
+2  pixels
+Area number:  2389
+1  pixels
+Area number:  2390
+1  pixels
+Area number:  2391
+3  pixels
+Area number:  2392
+1  pixels
+Area number:  2393
+1  pixels
+Area number:  2394
+13  pixels
+Area number:  2395
+2  pixels
+Area number:  2396
+3  pixels
+Area number:  2397
+1  pixels
+Area number:  2398
+1  pixels
+Area number:  2399
+1  pixels
+Area number:  2400
+1  pixels
+Area number:  2401
+1  pixels
+Area number:  2402
+1  pixels
+Area number:  2403
+5  pixels
+Area number:  2404
+1  pixels
+Area number:  2405
+1  pixels
+Area number:  2406
+1  pixels
+Area number:  2407
+1  pixels
+Area number:  2408
+1  pixels
+Area number:  2409
+1  pixels
+Area number:  2410
+2  pixels
+Area number:  2411
+3  pixels
+Area number:  2412
+3  pixels
+Area number:  2413
+1  pixels
+Area number:  2414
+1  pixels
+Area number:  2415
+1  pixels
+Area number:  2416
+4  pixels
+Area number:  2417
+1  pixels
+Area number:  2418
+1  pixels
+Area number:  2419
+4  pixels
+Area number:  2420
+1  pixels
+Area number:  2421
+1  pixels
+Area number:  2422
+1  pixels
+Area number:  2423
+1  pixels
+Area number:  2424
+3  pixels
+Area number:  2425
+1  pixels
+Area number:  2426
+10  pixels
+Area number:  2427
+2  pixels
+Area number:  2428
+1  pixels
+Area number:  2429
+1  pixels
+Area number:  2430
+4  pixels
+Area number:  2431
+2  pixels
+Area number:  2432
+2  pixels
+Area number:  2433
+5  pixels
+Area number:  2434
+1  pixels
+Area number:  2435
+2  pixels
+Area number:  2436
+7  pixels
+Area number:  2437
+1  pixels
+Area number:  2438
+2  pixels
+Area number:  2439
+2  pixels
+Area number:  2440
+1  pixels
+Area number:  2441
+22  pixels
+Area number:  2442
+1  pixels
+Area number:  2443
+1  pixels
+Area number:  2444
+1  pixels
+Area number:  2445
+1  pixels
+Area number:  2446
+4  pixels
+Area number:  2447
+1  pixels
+Area number:  2448
+1  pixels
+Area number:  2449
+1  pixels
+Area number:  2450
+4  pixels
+Area number:  2451
+2  pixels
+Area number:  2452
+5  pixels
+Area number:  2453
+7  pixels
+Area number:  2454
+1  pixels
+Area number:  2455
+1  pixels
+Area number:  2456
+1  pixels
+Area number:  2457
+1  pixels
+Area number:  2458
+1  pixels
+Area number:  2459
+1  pixels
+Area number:  2460
+1  pixels
+Area number:  2461
+1  pixels
+Area number:  2462
+2  pixels
+Area number:  2463
+4  pixels
+Area number:  2464
+1  pixels
+Area number:  2465
+1  pixels
+Area number:  2466
+2  pixels
+Area number:  2467
+1  pixels
+Area number:  2468
+1  pixels
+Area number:  2469
+1  pixels
+Area number:  2470
+6  pixels
+Area number:  2471
+1  pixels
+Area number:  2472
+2  pixels
+Area number:  2473
+2  pixels
+Area number:  2474
+2  pixels
+Area number:  2475
+1  pixels
+Area number:  2476
+1  pixels
+Area number:  2477
+1  pixels
+Area number:  2478
+1  pixels
+Area number:  2479
+1  pixels
+Area number:  2480
+1  pixels
+Area number:  2481
+1  pixels
+Area number:  2482
+1  pixels
+Area number:  2483
+1  pixels
+Area number:  2484
+1  pixels
+Area number:  2485
+1  pixels
+Area number:  2486
+6  pixels
+Area number:  2487
+1  pixels
+Area number:  2488
+1  pixels
+Area number:  2489
+10  pixels
+Area number:  2490
+13  pixels
+Area number:  2491
+1  pixels
+Area number:  2492
+1  pixels
+Area number:  2493
+2  pixels
+Area number:  2494
+1  pixels
+Area number:  2495
+1  pixels
+Area number:  2496
+8  pixels
+Area number:  2497
+1  pixels
+Area number:  2498
+1  pixels
+Area number:  2499
+3  pixels
+Area number:  2500
+1  pixels
+Area number:  2501
+1  pixels
+Area number:  2502
+4  pixels
+Area number:  2503
+1  pixels
+Area number:  2504
+1  pixels
+Area number:  2505
+1  pixels
+Area number:  2506
+1  pixels
+Area number:  2507
+2  pixels
+Area number:  2508
+1  pixels
+Area number:  2509
+54  pixels
+Area number:  2510
+1  pixels
+Area number:  2511
+2  pixels
+Area number:  2512
+1  pixels
+Area number:  2513
+1  pixels
+Area number:  2514
+2  pixels
+Area number:  2515
+11  pixels
+Area number:  2516
+1  pixels
+Area number:  2517
+7  pixels
+Area number:  2518
+7  pixels
+Area number:  2519
+1  pixels
+Area number:  2520
+1  pixels
+Area number:  2521
+2  pixels
+Area number:  2522
+2  pixels
+Area number:  2523
+1  pixels
+Area number:  2524
+1  pixels
+Area number:  2525
+1  pixels
+Area number:  2526
+1  pixels
+Area number:  2527
+1  pixels
+Area number:  2528
+1  pixels
+Area number:  2529
+1  pixels
+Area number:  2530
+1  pixels
+Area number:  2531
+1  pixels
+Area number:  2532
+1  pixels
+Area number:  2533
+1  pixels
+Area number:  2534
+1  pixels
+Area number:  2535
+1  pixels
+Area number:  2536
+1  pixels
+Area number:  2537
+1  pixels
+Area number:  2538
+1  pixels
+Area number:  2539
+4  pixels
+Area number:  2540
+2  pixels
+Area number:  2541
+1  pixels
+Area number:  2542
+1  pixels
+Area number:  2543
+1  pixels
+Area number:  2544
+1  pixels
+Area number:  2545
+1  pixels
+Area number:  2546
+1  pixels
+Area number:  2547
+1  pixels
+Area number:  2548
+2  pixels
+Area number:  2549
+1  pixels
+Area number:  2550
+1  pixels
+Area number:  2551
+1  pixels
+Area number:  2552
+1  pixels
+Area number:  2553
+1  pixels
+Area number:  2554
+1  pixels
+Area number:  2555
+1  pixels
+Area number:  2556
+1  pixels
+Area number:  2557
+1  pixels
+Area number:  2558
+1  pixels
+Area number:  2559
+1  pixels
+Area number:  2560
+2  pixels
+Area number:  2561
+2  pixels
+Area number:  2562
+1  pixels
+Area number:  2563
+1  pixels
+Area number:  2564
+1  pixels
+Area number:  2565
+1  pixels
+Area number:  2566
+1  pixels
+Area number:  2567
+1  pixels
+Area number:  2568
+1  pixels
+Area number:  2569
+1  pixels
+Area number:  2570
+1  pixels
+Area number:  2571
+1  pixels
+Area number:  2572
+2  pixels
+Area number:  2573
+3  pixels
+Area number:  2574
+1  pixels
+Area number:  2575
+1  pixels
+Area number:  2576
+1  pixels
+Area number:  2577
+1  pixels
+Area number:  2578
+1  pixels
+Area number:  2579
+1  pixels
+Area number:  2580
+1  pixels
+Area number:  2581
+1  pixels
+Area number:  2582
+1  pixels
+Area number:  2583
+1  pixels
+Area number:  2584
+2  pixels
+Area number:  2585
+2  pixels
+Area number:  2586
+1  pixels
+Area number:  2587
+1  pixels
+Area number:  2588
+2  pixels
+Area number:  2589
+1  pixels
+Area number:  2590
+2  pixels
+Area number:  2591
+2  pixels
+Area number:  2592
+1  pixels
+Area number:  2593
+1  pixels
+Area number:  2594
+1  pixels
+Area number:  2595
+2  pixels
+Area number:  2596
+1  pixels
+Area number:  2597
+1  pixels
+Area number:  2598
+1  pixels
+Area number:  2599
+2  pixels
+Area number:  2600
+1  pixels
+Area number:  2601
+1  pixels
+Area number:  2602
+1  pixels
+Area number:  2603
+1  pixels
+Area number:  2604
+5  pixels
+Area number:  2605
+1  pixels
+Area number:  2606
+2  pixels
+Area number:  2607
+1  pixels
+Area number:  2608
+1  pixels
+FINAL OUTPUT: 
+Average diameter:  1.1863363678689554
+Total surface area:  221148.0
+program_input/bread01_processed_new.png
