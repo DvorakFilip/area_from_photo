@@ -108,12 +108,12 @@ print("Number of areas: ", len(result))
 surface_areas = []
 rs = []
 
-for i, r in enumerate(result):
+for i, one_result in enumerate(result):
     print("Area number: ", i)
-    print(len(r), " pixels")
+    print(len(one_result), " pixels")
 
     # since len(r) is number of pixels of color area, it coresponds to area of a circle
-    r = np.sqrt((len(r)/np.pi))
+    r = np.sqrt((len(one_result)/np.pi))
     rs.append(r)
     surface_areas.append(4*np.pi*(r**2))
 
