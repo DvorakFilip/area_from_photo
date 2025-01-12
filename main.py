@@ -3,7 +3,7 @@ import numpy as np
 
 
 # ask for path to image, searched color and tolerance
-image_path, color, tolerance = "1", "1", "1"
+image_path, color, tolerance = "", "", ""
 
 while image_path == "":
     image_path = input("Enter image path: ")
@@ -19,10 +19,10 @@ while tolerance == "":
 tolerance = int(tolerance)
 
 
-#temporary
-image_path = "program_input/bread04.png"
-color = (0, 80, 150)
-tolerance = 110
+#temporary (overrides user input)
+#image_path = "program_input/bread04.png"
+#color = (0, 80, 150)
+#tolerance = 110
 
 
 print(image_path)
